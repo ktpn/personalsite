@@ -71,24 +71,25 @@ button {
 
 .nav {
   background-color: rgb(106, 106, 235);
-  padding: 1.5em;
-  margin: 0% 30% 0% 30%;
+  padding: 2%;
   border-radius: 10px;
+  margin-right: 1%;
+  margin-left: 1%;
+  position: relative;
+  
 } 
 
 .navbutton {
   color: white;
   text-decoration: none;
   font-weight: bold;
-  font-size: 1em;
-  padding: 3%;
+  padding: 2%;
 }
 
 .navbutton:hover {
   background-color: rgb(255, 255, 255);
   color: black;
   border-radius: 10px;
-  padding: 3%;
 }
 
 .container1 {

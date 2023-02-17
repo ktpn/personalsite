@@ -6,6 +6,7 @@ import {Coffee} from "./pages/Coffee"
 import { Home } from "./pages/Home";
 import { NavBar } from "./Navbar";
 import { Tip } from "./pages/Tipcalculator";
+import { Chicken } from "./pages/Chickencoop";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path="/coffee" element={<Coffee />} />
           <Route path="/todolist" element={<Todolist />} />
           <Route path="/tipcalculator" element={<Tip />} />
+          <Route path="/chickencoop" element={<Chicken />} />
 
           <Route path="*" element={<h1>ERROR: YOU ARE IN THE WRONG PAGE!</h1>} />
         </Routes>
