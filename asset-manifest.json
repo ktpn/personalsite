@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/personalsite/static/css/main.3530f17e.css",
+    "main.js": "/personalsite/static/js/main.06206dd7.js",
+    "index.html": "/personalsite/index.html",
+    "main.3530f17e.css.map": "/personalsite/static/css/main.3530f17e.css.map",
+    "main.06206dd7.js.map": "/personalsite/static/js/main.06206dd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3530f17e.css",
+    "static/js/main.06206dd7.js"
+  ]
+}
