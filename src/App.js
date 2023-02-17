@@ -11,7 +11,12 @@ function App() {
   return (
     <div className="App">
       <Router>
+        <NavBar />
         <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/menu" element={<Menu />} />
+          <Route path="/coffee" element={<Coffee />} />
+          <Route path="/todolist" element={<Todolist />} />
           <Route path="/tipcalculator" element={<Tip />} />
 
           <Route path="*" element={<h1>ERROR: YOU ARE IN THE WRONG PAGE!</h1>} />
