@@ -1,12 +1,12 @@
 import "./App.css";
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
 import {Todolist} from "./pages/Todolist";
-import {Menu} from "./pages/Menu"
+import {Empty} from "./pages/Empty"
 import {Coffee} from "./pages/Coffee"
 import { Home } from "./pages/Home";
 import { NavBar } from "./Navbar";
 import { Tip } from "./pages/Tipcalculator";
-import { Chicken } from "./pages/Chickencoop";
+import { Chicken } from "./pages/Chicken";
 
 function App() {
   return (
@@ -15,12 +15,11 @@ function App() {
         <NavBar />
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/menu" element={<Menu />} />
           <Route path="/coffee" element={<Coffee />} />
           <Route path="/todolist" element={<Todolist />} />
           <Route path="/tipcalculator" element={<Tip />} />
-          <Route path="/chickencoop" element={<Chicken />} />
-
+          <Route path="/chicken" element={<Chicken />} />
+          <Route path="/empty" element={<Empty />} />
           <Route path="*" element={<h1>ERROR: YOU ARE IN THE WRONG PAGE!</h1>} />
         </Routes>
       </Router>
