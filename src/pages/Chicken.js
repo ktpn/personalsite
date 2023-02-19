@@ -7,7 +7,7 @@ export const Chicken = () => {
             <p>This is our progress of raising chickens <br></br>
             and also building a chicken coop</p>
             <p>Most facts are AI generated thanks to ChatGPT</p>
-            <br></br>
+        
             <div>
                 <h2 class="chickentitle">We got chicks!!</h2>
                 <div class="chickenimg">
@@ -89,29 +89,68 @@ export const Chicken = () => {
                             </div>
                         </div>
 
-                        <h2 class="chickentitle">Design an egg-cellent coop</h2>
-                        <div class="chickenimg">
-                        <img src="https://i.imgur.com/fUQ3FHF.png" alt="Quick 3D model of a chicken coop" width="100%"></img>
-                            <div class="chickenimgtext">
-                                <p>"The Eggloo"</p>
+                        <div>
+                            <h2 class="chickentitle">Design an egg-cellent coop</h2>
+                            <div class="chickenimg">
+                                <img src="https://i.imgur.com/fUQ3FHF.png" alt="Quick 3D model of a chicken coop" width="100%"></img>
+                                    <div class="chickenimgtext">
+                                        <p>"The Eggloo"</p>
+                                    </div>
+                            </div>
+                            <div class="chickentext">
+                                <p class="boldleft">2.16.2023</p>
+                                <p class="left">Not knowing how long it will take to build, I started to model and design "The Eggloo". As the flock are growing at a fast pace I wanted to have all the time I need to design and build a coop for them to lay eggs.</p>
+                                <div class="facts">
+                                    <p class="left">Chickens need a coop for several reasons:
+                                        <ol>
+                                            <li>Shelter: A coop provides shelter and protection from the elements such as rain, snow, wind, and extreme temperatures.</li>
+                                            <li>Safety: A coop provides a safe and secure place for chickens to sleep and roost at night, away from predators such as foxes, raccoons, and hawks.</li>
+                                            <li>Nesting: A coop provides a safe and comfortable space for hens to lay their eggs, which helps prevent eggs from being damaged or stolen by predators.</li>
+                                            <li>Health: A coop helps prevent the spread of diseases and parasites by providing a clean and dry living space for the chickens.</li>
+                                            <li>Regulation: In many areas, there are zoning and health regulations that require chickens to be housed in a designated area, such as a coop, for public health and safety reasons.</li>
+                                        </ol>
+                                        Overall, a coop is an essential part of keeping chickens safe, healthy, and happy, and it provides them with a comfortable and secure place to call home.
+                                    </p>
+                                </div>
                             </div>
                         </div>
-                        <div class="chickentext">
-                            <p class="boldleft">2.16.2023</p>
-                            <p class="left">Not knowing how long it will take to build, I started to model and design "The Eggloo". As the flock are growing at a fast pace I wanted to have all the time I need to design and build a coop for them to lay eggs.</p>
-                            <div class="facts">
-                                <p class="left">Chickens need a coop for several reasons:
-                                    <ol>
-                                        <li>Shelter: A coop provides shelter and protection from the elements such as rain, snow, wind, and extreme temperatures.</li>
-                                        <li>Safety: A coop provides a safe and secure place for chickens to sleep and roost at night, away from predators such as foxes, raccoons, and hawks.</li>
-                                        <li>Nesting: A coop provides a safe and comfortable space for hens to lay their eggs, which helps prevent eggs from being damaged or stolen by predators.</li>
-                                        <li>Health: A coop helps prevent the spread of diseases and parasites by providing a clean and dry living space for the chickens.</li>
-                                        <li>Regulation: In many areas, there are zoning and health regulations that require chickens to be housed in a designated area, such as a coop, for public health and safety reasons.</li>
-                                    </ol>
-                                    Overall, a coop is an essential part of keeping chickens safe, healthy, and happy, and it provides them with a comfortable and secure place to call home.
-                                </p>
+                        <div>
+                            <h2 class="chickentitle">Title</h2>
+                            <div class="chickenimg">
+                                <img src="" alt="Alt text" width="100%"></img>
+                                    <div class="chickenimgtext">
+                                        <p>Comment</p>
+                                    </div>
+                            </div>
+                            <div class="chickentext">
+                                <p class="boldleft">Date</p>
+                                <p class="left">Description</p>
+                                <div class="facts">
+                                    <p class="left">Chicken Facts
+                                    </p>
+                                </div>
                             </div>
                         </div>
+                        
+                        
+                        {/* <div>
+                            <h2 class="chickentitle">Title</h2>
+                            <div class="chickenimg">
+                                <img src="" alt="Alt text" width="100%"></img>
+                                    <div class="chickenimgtext">
+                                        <p>Comment</p>
+                                    </div>
+                            </div>
+                            <div class="chickentext">
+                                <p class="boldleft">Date</p>
+                                <p class="left">Description</p>
+                                <div class="facts">
+                                    <p class="left">Chicken Facts
+                                    </p>
+                                </div>
+                            </div>
+                        </div> */}
+
 
 
 

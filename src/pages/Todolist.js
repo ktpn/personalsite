@@ -65,7 +65,7 @@ export const Todolist = () => {
     <div className="App">
       <div className="addTask">
         <h1 className="title">To-Do List</h1>
-        <input onChange={handleChange} onKeyDown={handleKeyAddTask} />
+        <input size="10" onChange={handleChange} onKeyDown={handleKeyAddTask} />
         <button className="graybutton" onClick={addTask}>Add Task</button>
       </div>
       <div className="list">

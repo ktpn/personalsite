@@ -9,7 +9,7 @@ export const Coffee = () => {
                 <h1>Coffee Stuff</h1>
                 <a href="https://honestcoffeeguide.com/tools/coffee-to-water-ratio/">Link for calculating coffee ratios</a>
                     
-                <div className="container1">
+                <div className="coffee1">
                     <div className="coffeeitem">
                         <h2 className="underline">Espresso</h2>
                         <p>Ratio: 1:2 coffee:water</p>
@@ -32,7 +32,7 @@ export const Coffee = () => {
                 </div>
 
 
-                <div className="container1">
+                <div className="coffee1">
                     <div className="coffeeitem">
                         <h2 className="underline">French Press</h2>
                         <p>Ratio: 1:16 coffee:water</p>
@@ -54,7 +54,7 @@ export const Coffee = () => {
                     </div>
                 </div>
 
-                <div className="container1">
+                <div className="coffee1">
                     <div className="coffeeitem">
                         <h2 className="underline">Nespresso Vertuo Pod</h2>
                         <p>Grind setting: 15</p>

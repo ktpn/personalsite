@@ -3,7 +3,7 @@
 export const Task = (props) => {
     return (
         <div className="items">
-              <div className="addedTask" style={{backgroundColor: props.done ? "lightgreen" : "rgb(210, 254, 255)"}}>
+              <div className="addedTask" style={{backgroundColor: props.done ? "lightgreen" : "rgb(180, 180, 180)"}}>
                 <h1>{props.id}. {props.taskName}</h1>
               </div>
               <div>
