@@ -1,5 +1,5 @@
 import "./App.css";
-import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
+import {BrowserRouter as Router, Routes, Route, Navigate} from "react-router-dom";
 import {Todolist} from "./pages/Todolist";
 import {Empty} from "./pages/Empty"
 import {Coffee} from "./pages/Coffee"
@@ -20,7 +20,7 @@ function App() {
           <Route path="/tipcalculator" element={<Tip />} />
           <Route path="/chicken" element={<Chicken />} />
           <Route path="/empty" element={<Empty />} />
-          <Route path="*" element={<h1>ERROR: YOU ARE IN THE WRONG PAGE!</h1>} />
+          <Route path="*" element={<Navigate to ="/" />} />
         </Routes>
       </Router>
     </div>

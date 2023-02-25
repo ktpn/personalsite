@@ -14,10 +14,11 @@ export const Coffee = () => {
                         <h2 className="underline">Espresso</h2>
                         <p>Ratio: 1:2 coffee:water</p>
                         <p>Grind setting: 8-10</p>
-                        <p>Input: 15.5g-17.5g</p>
+                        <p>Input: 15g-18g</p>
                         <p>Output: 30g-40g</p>
                         <p>Extraction time: 30-40sec</p>
-                        <p>Ideal: 15.5g in to 40g out in 30sec</p>
+                        <p>Grind. WDT. Tamp. Extract</p>
+                        <p>15g in 40g out in 30 sec</p>
                     </div>
                     
                     <div className="coffeeitem">
@@ -27,7 +28,8 @@ export const Coffee = () => {
                         <p>Input: 20g</p>
                         <p>Output: 300g</p>
                         <p>Extraction time: 3-4mins</p>
-                        <p>Add 1:2 of water, wait 45sec. Slowly add the rest</p>
+                        <p>Add 1:2 of water, wait 45sec</p>
+                        <p>Slowly add the rest</p>
                     </div>
                 </div>
 
@@ -40,7 +42,7 @@ export const Coffee = () => {
                         <p>Input: 16g</p>
                         <p>Output: 250g</p>
                         <p>Extraction time: 4mins</p>
-                        <p>Press and pour slowly.</p>
+                        <p>Press and pour slowly</p>
                     </div>
 
                     <div className="coffeeitem">
