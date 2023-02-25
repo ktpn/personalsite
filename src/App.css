@@ -16,7 +16,7 @@ p {
   text-align: center;
   align-items: center;
   overflow: hidden;
-  background-color: rgb(240, 193, 65);
+  background-color: rgb(164, 189, 181);
   padding: 5%;
   margin: 5% 20% 0% 20%;
   border-radius: 50px;
@@ -78,7 +78,7 @@ button {
   border-radius: 10px;
   margin-right: 1%;
   margin-left: 1%;
-  margin-bottom: 5%;
+  margin-bottom: 2%;
   font-size: 20px;
   display: flex;
   flex-direction: row;
@@ -187,8 +187,21 @@ input[type="text"] {
   text-shadow: -3px 3px 5px black;
 }
 
+.chicken {
+  background-image: url(https://img.freepik.com/premium-vector/cartoon-chick-seamless-pattern_51194-57.jpg?w=1060);
+  padding-top: 2%;
+}
+
+.chickenstuff {
+  background-color: rgb(210, 216, 160, 0.9);
+  border-radius: 50px;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-top: 3%;
+}
+
 .chickentitle {
-  margin-top: 10%;
+  margin-top: 5%;
   text-decoration: underline;
 }
 
