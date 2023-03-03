@@ -74,32 +74,65 @@ button {
 }
 
 .nav {
-  background-color: rgb(62, 152, 255);
-  border-radius: 10px;
   margin-right: 1%;
   margin-left: 1%;
   margin-bottom: 2%;
-  font-size: 20px;
-  display: flex;
-  flex-direction: row;
+  font-size: 2vh;
   justify-content: center;
-  overflow: hidden;
+  width: auto;
 } 
 
 .navbutton {
   color: white;
   text-decoration: none;
   font-weight: bold;
-  padding: 2%;
-  width: auto;
-  height: auto;
+  padding: 5%;
 }
 
 .navbutton:hover {
   background-color: rgb(255, 255, 255);
   color: black;
-  border-radius: 10px;
+  border-radius: 5px;
 }
+
+.navmenu {
+  background-color: rgb(62, 152, 255);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.navmenu ul {
+  display: flex;
+}
+
+.navmenu li {
+  list-style-type: none;
+  margin: 0 1rem;
+}
+
+.navmenu li a {
+  text-decoration: none;
+  display: block;
+  width: 100%;
+}
+
+.hamburger {
+  border: 0;
+  height: 50px;
+  width: 50px;
+  background-color: rgb(62, 152, 255, 0.8);
+  padding: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+  position: fixed;
+  top: 4%;
+  left: 10px;
+  transform: translateY(-50%);
+  display: none;
+}
+
 
 .coffeestuff {
   background-image: url(https://cdn.pixabay.com/photo/2017/08/06/07/10/coffee-2589761_960_720.jpg);
@@ -190,18 +223,19 @@ input[type="text"] {
 .chicken {
   background-image: url(https://img.freepik.com/premium-vector/cartoon-chick-seamless-pattern_51194-57.jpg?w=1060);
   padding-top: 2%;
+  padding-bottom: 2%;
 }
 
 .chickenstuff {
-  background-color: rgb(210, 216, 160, 0.9);
-  border-radius: 50px;
-  margin-left: 20%;
-  margin-right: 20%;
+  background-color: rgb(210, 216, 160, 0.8);
+  border-radius: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
   padding-top: 3%;
 }
 
 .chickentitle {
-  margin-top: 5%;
+  margin-top: 10%;
   text-decoration: underline;
 }
 
@@ -243,4 +277,55 @@ input[type="text"] {
 
 .left {
   text-align: left;
+}
+
+
+
+
+@media screen and (max-width: 768px) {
+  .hamburger {
+    display: block;
+  }
+
+  body {
+    margin-top: 10%;
+  }
+
+  .navmenu ul {
+    position: absolute;
+    top: 40px;
+    left: 0;
+    width: 100%;
+    flex-direction: column;
+    height: auto;
+    border: 1px solid black;
+    text-align: center;
+    background-color: rgb(62, 152, 255, 0.9);
+    border-radius: 10px;
+    padding: 0%;
+    z-index: 1;
+    display: none;
+  }
+
+  .navmenu.expanded ul {
+    display: block;
+  }
+
+  .navmenu li {
+    text-align: center;
+    margin: 0;
+  }
+
+  .navmenu li a {
+    width: 90%;
+  }
+
+  .navbutton {
+    padding: 5%;
+  }
+
+  .chickenstuff {
+    margin: 1%;
+  }
+
 }

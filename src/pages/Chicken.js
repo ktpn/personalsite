@@ -11,7 +11,7 @@ export const Chicken = () => {
                     <p>Most facts are AI generated thanks to ChatGPT</p>
                 
                     <div>
-                        <h2 class="chickentitle">We got chicks!!</h2>
+                        <h2 class="chickentitle">We got chicks!! &#128035; &#128036; &#128037; </h2>
                         <div class="chickenimg">
                             <img src="https://i.imgur.com/dMl3M8s.jpg" alt="Chicks in white paper bag" width="100%"></img>
                             <div class="chickenimgtext">
@@ -19,8 +19,9 @@ export const Chicken = () => {
                             </div>
                         </div>
                             <div class="chickentext">
-                                <p class="boldleft">2.11.2023</p>
-                                <p class="left">Early in the morning we went to the market with the intention of getting 3 chicks, but once we saw them and how cute they were, we could not stop at 3 chicks and managed to get 2 more buddies for the flock.</p>
+                                <p class="boldleft">02.11.2023</p>
+                                <p class="left">Early in the morning we went to the market with the intention of getting 3 chicks, but once we saw them and how cute they were, we could not stop at 3 chicks and managed to get 2 more buddies for the flock.
+                                    We were told they were about a week old but they look like a couple days old and we did not ask what breed they are.</p>
                                 <div class="facts">
                                     <p class="left">A "Straight run" of chickens is a mixed group of newly hatched chicks that have not been sexed or sorted by gender. This means that the group will include both male and female chicks, with no way to know in advance which ones will grow up to be roosters and which will be hens.</p>
                                     <p class="left">Straight run chickens are not separated by gender at the time of hatching because it's difficult to distinguish between males and females, also more cost-effective and efficient for hatcheries to produce and sell unsorted chicks. Hatcheries typically produce large numbers of chicks at one time, and it would be time-consuming and expensive to sort and sex each individual bird.</p>
@@ -46,7 +47,7 @@ export const Chicken = () => {
                                 <p>In temporary transfer/playpen, everyone trying to get along.</p>
                             </div>
                         </div>
-                            <h2 class="chickentitle">Chicken Wrap</h2>
+                            <h2 class="chickentitle">Chicken Nuggets</h2>
                             <div class="chickenimg">
                                 <img src="https://i.imgur.com/laiO55U.jpg" alt="Chicks on a brown towel" width="100%"></img>
                                 <div class="chickenimgtext">
@@ -54,7 +55,7 @@ export const Chicken = () => {
                                 </div>
                             </div>
                                 <div class="chickentext">
-                                    <p class="boldleft">2.12.2023</p>
+                                    <p class="boldleft">02.12.2023</p>
                                     <p class="left">I did not realized that something so small can poop so often. But the flock really like the feed and was gobbling it up. Also they are really messy eaters.</p>
                                     <div class="facts">
                                         <p class="left">Chicks have a unique digestive system designed to extract nutrients from food efficiently. They have a high metabolic rate and rapid growth rate, which means they need to eat frequently and excrete waste often. Their small size also means their digestive system processes food quickly, resulting in frequent bowel movements. So, chicks poop a lot because it's a natural part of their efficient digestive process and growth cycle.</p>
@@ -69,7 +70,7 @@ export const Chicken = () => {
                                     </div>
                                 </div>
                                 <div class="chickentext">
-                                    <p class="boldleft">2.14.2023</p>
+                                    <p class="boldleft">02.14.2023</p>
                                     <p class="left">They are growing so fast! Their feathers are coming along nicely but they still look so fluffy.</p>
                                     <div class="facts">
                                         <p class="left">In some cultures, chickens have been used as symbols of love and courtship. For example, in some parts of rural China, young men give hens and roosters to their sweethearts as a sign of their affection, with the belief that the birds will mate and produce offspring, symbolizing the couple's love and the growth of their relationship. Additionally, some people believe that eating chicken on Valentine's Day can bring good luck and strengthen romantic relationships.</p>
@@ -84,7 +85,7 @@ export const Chicken = () => {
                                     </div>
                                 </div>
                                 <div class="chickentext">
-                                    <p class="boldleft">2.15.2023</p>
+                                    <p class="boldleft">02.15.2023</p>
                                     <p class="left">We had a little bit of nice weather, so we took the flock outside for some vitamin D. But we can't stay out too long the chicks need to be in very warm conditions for several weeks. </p>
                                     <div class="facts">
                                         <p class="left">The ideal temperature for chicks depends on their age. For the first week of their life, chicks require a temperature of around 95-100°F (35-38°C) in the brooder area. After the first week, the temperature can be lowered by approximately 5°F (3°C) each week until the chicks are fully feathered and can regulate their own body temperature, which usually occurs at around 6-8 weeks of age.</p>
@@ -100,7 +101,7 @@ export const Chicken = () => {
                                             </div>
                                     </div>
                                     <div class="chickentext">
-                                        <p class="boldleft">2.16.2023</p>
+                                        <p class="boldleft">02.16.2023</p>
                                         <p class="left">Not knowing how long it will take to build, I started to model and design "The Eggloo". As the flock are growing at a fast pace I wanted to have all the time I need to design and build a coop for them to lay eggs.</p>
                                         <div class="facts">
                                             <p class="left">Chickens need a coop for several reasons:
@@ -117,52 +118,417 @@ export const Chicken = () => {
                                     </div>
                                 </div>
                                 <div>
-                                    <h2 class="chickentitle">Title</h2>
+                                    <h2 class="chickentitle">Build it and the eggs will come</h2>
                                     <div class="chickenimg">
-                                        <img src="" alt="Alt text" width="100%"></img>
+                                        <img src="https://i.imgur.com/XHQgYaj.jpg" alt="Truck bed with wood boards and studs" width="100%"></img>
                                             <div class="chickenimgtext">
-                                                <p>Comment</p>
+                                                <p>The first of many trips to Lowe's.</p>
                                             </div>
                                     </div>
                                     <div class="chickentext">
-                                        <p class="boldleft">Date</p>
-                                        <p class="left">Description</p>
+                                        <p class="boldleft">02.18.2023</p>
+                                        <p class="left">
+                                            So we went to Lowe's and started buying the materials needed to build the chicken coop.
+                                            Knowing the basic idea of what kind of chicken coop we wanted we started off by purchasing
+                                            several wood panals, 2x4s and a couple wood screws to begin the build.
+                                            <br></br>
+                                            <br></br>
+                                            Note, I do not have any prior experience in framing a structure or building a large structure so most of my information and knowledge will be from YouTube.
+
+                                        </p>
                                         <div class="facts">
-                                            <p class="left">Chicken Facts
+                                            <p class="left">
+                                                In ancient Rome, chickens were sometimes kept in small mobile coops called "arcas". These coops were designed to be moved around the garden or yard so that the chickens could feed on insects and weeds, while also fertilizing the soil. This practice of using mobile coops for chickens is still popular today and is known as "chicken tractor" or "mobile coop" farming.
                                             </p>
+                                            <div class="chickenimg">
+                                                <img src="https://i.imgur.com/Ay91duw.jpg" alt="Assortment of chicks in wood chip bedding in the corner" width="100%"></img>
+                                                <div class="chickenimgtext">
+                                                    <p>Updated flock picture</p>
+                                                </div>
+                                            </div>
+                                            
+                                            
                                         </div>
                                     </div>
                                 </div>
-                                
-                                
-                                {/* <div>
-                                    <h2 class="chickentitle">Title</h2>
+                                <div>
+                                    <h2 class="chickentitle">Working around the cluck</h2>
                                     <div class="chickenimg">
-                                    <img src="" alt="Alt text" width="100%"></img>
+                                    <img src="https://i.imgur.com/zy9tjaf.jpg" alt="wood structure with legs and larger cut out on top a fence panel" width="100%"></img>
                                     <div class="chickenimgtext">
-                                    <p>Comment</p>
+                                    <p>The base and the walls with the door opening.</p>
                                     </div>
                                     </div>
                                     <div class="chickentext">
-                                    <p class="boldleft">Date</p>
-                                    <p class="left">Description</p>
-                                    <div class="facts">
-                                    <p class="left">Chicken Facts
+                                    <p class="boldleft">02.20.2023</p>
+                                    <p class="left">
+                                        Managed to build the base with legs and attached some wood panels to make up the floor and the walls of the chicken coop.
+                                        I was able to cut all the wood with just a circular saw.
+                                        The legs of the coop is just 1ft off the ground and the dimensions of the coop box is 4ft x 4ft x 4ft without the legs. I went with this dimension to reduce the amount of cutting.
+                                        One thing to remember is to always measure twice before cutting, even measure three times to be sure.
+                                        One of my favortite tools to use is the speed square, I do highly recommend it especially for measuring 2x4s. 
                                     </p>
+                                    <div class="facts">
+                                    <p class="left">A speed square, also known as a rafter square or triangle square, is a measuring tool used by carpenters and other tradespeople to make quick and accurate measurements and cuts. It is typically made of metal or plastic and is shaped like a right-angled triangle with a lip or heel along one edge.
+                                        Some of the common uses of a speed square include:
+                                        <ol>
+                                            <li>Marking and measuring angles: The speed square's angled edge allows carpenters to easily mark and measure angles of 90, 45, and 30 degrees.</li>
+                                            <li>Determining roof pitch: Roofers use a speed square to determine the pitch or slope of a roof.</li>
+                                            <li>Making square cuts: The lip or heel of the speed square can be used as a guide for making straight, square cuts with a circular saw or hand saw.</li>
+                                            <li>Measuring and marking lumber: The speed square can be used to measure and mark lumber for cutting or notching.</li>
+                                        </ol>
+                                        Overall, a speed square is a versatile and handy tool that can be used for a wide range of measuring and cutting tasks in construction and woodworking projects.
+                                    </p>
+                                    <div class="chickenimg">
+                                    <img src="https://i.imgur.com/uxhozp9.jpg" alt="orange speed square" width="100%"></img>
+                                    <div class="chickenimgtext">
+                                    <p>Swanson Speed Square</p>
                                     </div>
                                     </div>
-                                </div> */}
+                                    </div>
+                                    </div>
+                                </div>
+                                <div>
+                                    <h2 class="chickentitle">The Plot Chickens</h2>
+                                    <div class="chickenimg">
+                                        <img src="https://i.imgur.com/lHm4Lbt.jpg" alt="An assortment of seven chicks with bedding in a box" width="100%"></img>
+                                        <div class="chickenimgtext">
+                                            <p>Added 7 more chicks to the flock, lots of fluffy butts</p>
+                                        </div>
+                                    </div>
+                                    <div class="chickentext">
+                                        <p class="boldleft">02.22.2023</p>
+                                        <p class="left">
+                                            The previous weekend we drove by a place that had chicks for sale, so we returned to the store when they got their weekly shipment of chicks.
+                                            They had a wide selection of breeds to pick from and we decided to add 7 more chicks to our flock.
+                                            We picked out 4 Silkies, 2 from the Crested Special bin and 1 from the Easter Eggers.
+                                        </p>
+                                    <div class="chickenimg">
+                                            <img src="https://i.imgur.com/C8uezzF.jpg" alt="Silkie selection with price" width="100%"></img>
+                                            <div class="chickenimgtext">
+                                                <p>Potential Silkie breeds we might have</p>
+                                            </div>
+                                    </div>
+                                    <div class="chickenimg">
+                                            <img src="https://i.imgur.com/tu5ECq6.jpg" alt="Crested Specials selection with price" width="100%"></img>
+                                            <div class="chickenimgtext">
+                                                <p>Crested Special breeds we might have, hoping for the Sultan and a Polish.</p>
+                                            </div>
+                                    </div>
+                                    <div class="chickenimg">
+                                            <img src="https://i.imgur.com/LCtXL97.jpg" alt="Easter Egger sign with price" width="100%"></img>
+                                            <div class="chickenimgtext">
+                                                <p>Easter Egger, hoping for blue eggs</p>
+                                            </div>
+                                    </div>
+                                    <div class="chickenimg">
+                                            <img src="https://i.imgur.com/g7oIPMo.jpg" alt="Chick selection sheet" width="100%"></img>
+                                            <div class="chickenimgtext">
+                                                <p>Our order sheet.</p>
+                                            </div>
+                                    </div>
+                                    <div class="chickentext">
+                                            <p class="left">
+                                                We also purchased a water supplement for our chicks to help support their digestive health and provide them with important nutrients.
+                                                We went with Manna Pro Hydro-Hen 3-in-1 Probiotics + Electrolytes + Acidifiers as it seem to provide everything we are looking for.
+                                                <br></br>
+                                                <br></br>
+                                                Manna Pro is well known brand and this product has great reviews, easy to use with measuring cup provided, and not so expensive.
+                                                Also this is not a paid sponsorship, but if Manna Pro wanted to sponsor us or send us some free products to try we would be very egg-cited to!
+                                            </p>
+                                    </div>
+                                    <div class="chickenimg">
+                                            <img src="https://i.imgur.com/9cdBSsZ.jpg" alt="Manna Pro Hydro-hen supplement" width="100%"></img>
+                                            <div class="chickenimgtext">
+                                                <p>Drinking water supplement for our chicks</p>
+                                            </div>
+                                    </div>
+
+                                    <div class="chickentext">
+                                            <p class="left">
+                                                Making the roof for the chicken coop was bit of a complicated task. So we decided on a single slant style roof as it seemed like an easier type of roof to build.
+                                                Cutting out the rafters and figuring what roof pitch to use was a daunting task but after many cuts, I managed to get the rafters to fit correctly and get the roof panel installed!
+                                                Also added more legs for the chicken coop to make it more secure.
+                                                <br></br>
+                                                <br></br>
+                                                Next step is to cut out and install panels to cover up the openings below the roof and selecting the type of material for the roofing.
+                                                Also start working on the nesting boxes, I think we will add nesting boxes to both sides of the chicken coop so our chickens will have an abundant of nesting box selection and to future-proof our coop if we later decide to add more chickens. &#128020; &#128020; &#128020; 
+                                            </p>
+                                    </div>
+                                    <div class="chickenimg">
+                                            <img src="https://i.imgur.com/3TNnogm.jpg" alt="Chicken coop frontal view with single slant roof all unpainted and unfinished, with chicken door cut out" width="100%"></img>
+                                            <div class="chickenimgtext">
+                                                <p>Made rafters and added the roof panel. Also cut out the chicken door.</p>
+                                            </div>
+                                    </div>
+                                    </div>
+                                </div>
+                                <div>
+                                        <h2 class="chickentitle">Fowl Play</h2>
+                                        <div class="chickenimg">
+                                            <img src="https://i.imgur.com/eEVoyd3.jpg" alt="Chicks in the corner with red light in bedding" width="100%"></img>
+                                            <div class="chickenimgtext">
+                                                <p>Some of the new chicks cuddling up in the corner.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickentext">
+                                            <p class="boldleft">02.24.2023</p>
+                                            <p class="left">
+                                                We tried to introduce the new chicks with our older chicks by separating them during the day and adding them together at night.
+                                                But after two days, two of the older chicks seem to be more agressive to the newer chicks. Also note, the chicks are just a two week age difference and this seems like a big difference since they grow so fast.
+                                                <br></br>
+                                                <br></br>
+                                                The two older chicks would sometimes trample and peck/pick-on the new chicks causing the new chicks to peep a lot, so we decided to give the two older chicks away to minimize the stress on our flock.
+                                                We gave away the two older chicks to a local farmer looking to add to their farm. After the two agressors were gone the whole flock was much quietier and a lot less fussier than before.
+                                                Now our total flock consists of 10 chicks.
+                                            </p>
+                                            <div class="facts">
+                                                <p class="left">
+                                                    Introducing new chicks to older chicks can be a delicate process, as it is important to prevent aggression and ensure the safety and well-being of all the birds. Here are some steps to follow when introducing new chicks to older chicks:
+                                                    <ol>
+                                                        <li>Quarantine: Before introducing new chicks to the flock, it is important to quarantine them for at least a week to monitor their health and ensure they are not carrying any diseases that could spread to the existing flock.</li>
+                                                        <li>Gradual introduction: Rather than introducing the new chicks to the entire flock at once, gradually introduce them to a smaller group of older chicks, ideally ones that are around the same size and age. This can be done by placing the new chicks in a separate area within the coop, where they can see and hear the older chicks, but are separated by a barrier or fence.</li>
+                                                        <li>Supervision: It is important to closely monitor the interactions between the new and old chicks during the initial introduction period. Be prepared to intervene if any aggression or bullying occurs, and separate any chicks that are being overly aggressive towards the new arrivals.</li>
+                                                        <li>Provide enough space: Make sure the coop and run are large enough to accommodate all the birds comfortably. Providing enough space can help prevent overcrowding and reduce the risk of aggression.</li>
+                                                        <li>Provide distractions: To help reduce aggression and boredom, provide plenty of distractions in the form of perches, toys, and hiding places for the birds.</li>
+                                                        <li>Consider age differences: Depending on the age difference between the new and old chicks, it may be best to keep them separated until they are closer in size and strength.</li>
+                                                    </ol>
+                                                    In summary, introducing new chicks to older chicks requires careful planning, gradual introduction, close supervision, and adequate space and distractions for the birds. By following these steps, you can help ensure a successful integration and a harmonious flock.
+                                                </p>
+                                            </div>
+                                            <div class="chickenimg">
+                                                <img src="https://i.imgur.com/zaAQLnm.jpg" alt="Unpainted wooden chicken coop with nesting boxes added to both sides" width="100%"></img>
+                                                <div class="chickenimgtext">
+                                                    <p>Nesting boxes installed.</p>
+                                                </div>
+                                            </div>
+                                            <div class="chickenimg">
+                                                <img src="https://i.imgur.com/aqO68V3.jpg" alt="Unpainted wooden chicken coop with nesting boxes added to both sides view from the rear" width="100%"></img>
+                                                <div class="chickenimgtext">
+                                                    <p>Nesting boxes installed. Rear view.</p>
+                                                </div>
+                                            </div>
+                                            <div class="chickentext">
+                                            <p class="left">
+                                                Installed the nesting boxes to both sides of the coop, these will be contain 3 nesting boxes per each side with approximate dimensions of 12 inch x 12 inch x 12 inch or nesting space as recommended through several Google Searches.
+                                                <br></br>
+                                                <br></br>
+                                                Along with looking up information for nesting boxes, we found out one nesting box will be good for 4 to 6 hens and the hens will determine which nesting box will be favored and will mostly lay in that box.
+                                                The hinges for the roofing of the nesting boxes have not come in yet so right now they just sit on the nesting boxes.
+                                                <br></br>
+                                                <br></br>
+                                                Next step is to finalize on a roofing type/material and start with painting and sealing coop.
+                                            </p>
+                                            </div>
+                                            <div class="chickenimg">
+                                                <img src="https://i.imgur.com/C9Vozyy.jpg" alt="Chick with pasty butt sleeping" width="100%"></img>
+                                                <div class="chickenimgtext">
+                                                    <p>A Silkie with Pasty Butt spotted.</p>
+                                                </div>
+                                            </div>
+                                            <div class="chickentext">
+                                                <p class="left">
+                                                    Noticed a Silkie with pasty butt.
+                                                    What we did was with warm water soften the dropping and feathers affected to loosen up the dried poop limiting the area that would get wet so the chick would not get cold.
+                                                    Then removed the poop and dry the area with a paper towel or toilet paper by lighly tapping or wiping.
+                                                    We did this under a heater fan so the chick would not get so cold.
+                                                    <br></br>
+                                                    <br></br>
+                                                    The Silkies seem to have pasty butt more commonly due to their more fluffy/feathered butts.
+                                                    So we will have to check them more often.
+                                                </p>
+                                                <div class="facts">
+                                                    <p class="left">
+                                                        Chick pasty butt is a common condition in newly hatched chicks where their droppings get stuck to their feathers around their vent area, creating a blockage. This can be harmful to chicks as it can prevent them from defecating and can lead to dehydration or infection. Here are some reasons why chicks may develop pasty butt and how to fix it:
+                                                        <ol>
+                                                            <li>Diet: The main cause of pasty butt is a poor diet, especially in the first few days after hatching. If the chick's diet lacks the necessary nutrients, their droppings can become sticky and lead to blockage. Ensure that the chicks are eating a high-quality chick starter feed that meets their nutritional needs.</li>
+                                                            <li>Stress: Chicks can get stressed easily, which can affect their digestive system and cause pasty butt. Stress can be caused by various factors such as cold temperature, overcrowding, or being handled too frequently. Keep the brooder warm, provide enough space for the chicks to move around, and handle them gently.</li>
+                                                            <li>Hygiene: Cleanliness is crucial to prevent pasty butt. Make sure to keep the brooder clean and dry, and change the bedding regularly.</li>
+                                                        </ol>
+                                                        To fix pasty butt, you will need to gently remove the dried droppings from the chick's vent area. Here's how:
+                                                        <ol>
+                                                            <li>Prepare a shallow bowl of warm water and dip the chick's bottom into the water for a few seconds.</li>
+                                                            <li>Gently massage the dried droppings until they start to loosen.</li>
+                                                            <li>Use a soft cloth or paper towel to wipe away the droppings.</li>
+                                                            <li>Dry the chick's bottom with a clean towel and apply a small amount of petroleum jelly or coconut oil to the area to prevent further blockage.</li>
+                                                        </ol>
+                                                        It's important to check the chicks regularly and remove any dried droppings promptly to prevent pasty butt from recurring.
+                                                    </p>
+                                                </div>
+                                                <div class="chickenimg">
+                                                    <img src="https://i.imgur.com/ws5e5Gy.jpg" alt="Two Silkies asleep under red light" width="100%"></img>
+                                                    <div class="chickenimgtext">
+                                                        <p>Clean and sleepy butt.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                </div>
+                                <div>
+                                        <h2 class="chickentitle">Painting</h2>
+                                        <div class="chickenimg">
+                                            <img src="https://i.imgur.com/WdbTlbR.jpg" alt="Chicken coop first layer of white paint" width="100%"></img>
+                                            <div class="chickenimgtext">
+                                                <p>First layer of paint.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickentext">
+                                            <p class="boldleft">02.25.2023</p>
+                                            <p class="left">
+                                                Began painting the coop, we used Kilz 2 All-purpose paint as it great primer/sealer and mildew resistant also it was a inexpensive option.
+                                                We will need to paint at least two layers to make the paint look even and we also plan on painting the inside of the coop to prevent mildew and mold.
+
+                                            </p>
+                                            <div class="facts">
+                                                <p class="left">Chicken Facts</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <img src="https://i.imgur.com/eEVoyd3.jpg" alt="Several chicks in the corner with bedding under red light" width="100%"></img>
+                                            <div class="chickenimgtext">
+                                                <p>Some chicks are camera shy, some are not.</p>
+                                            </div>
+                                        </div>
+                                </div>
+                                <div>
+                                        <h2 class="chickentitle">Roof on the coop-da-ville</h2>
+                                        <div class="chickenimg">
+                                            <img src="https://i.imgur.com/27OjNZ9.jpg" alt="White chicken coop with roof installed" width="100%"></img>
+                                            <div class="chickenimgtext">
+                                                <p>Roof installed.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <img src="https://i.imgur.com/8qdKf3i.jpg" alt="White chicken coop with roof installed. Rear view." width="100%"></img>
+                                            <div class="chickenimgtext">
+                                                <p>Roof installed. Rear view.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickentext">
+                                            <p class="boldleft">02.28.2023</p>
+                                            <p class="left">
+                                                For the roofing material, we went with the Tuftex SeaCoaster tan PVC plastic roof panels as they were inexpensive and very easy to install.
+                                                Also finished adding second coat of paint on the coop and made the chicken door.
+                                                The chicken door we will probably have on a string to easily open and close it. Maybe later on we will look into installing a automatic chicken door so that we won't have to wake up early to let the chickens out.
+                                            </p>
+                                            <div class="facts">
+                                                <p class="left">
+                                                    Chickens require some time outside each day for exercise, fresh air, and access to sunlight. As a general rule, chickens should have access to the outdoors for at least a few hours each day, preferably during daylight hours.
+                                                    <br></br>
+                                                    <br></br>
+                                                    The exact amount of time that chickens need to spend outside each day can depend on a variety of factors, such as the breed of chicken, the climate in which they live, and the size of their outdoor enclosure. Some experts recommend allowing chickens to spend as much time as possible outside, while others suggest a minimum of 2-4 hours per day.
+                                                    <br></br>
+                                                    <br></br>
+                                                    It's important to note that chickens also need access to a safe and secure indoor area, such as a coop or shelter, where they can roost, nest, and protect themselves from predators. The outdoor area should be protected by fencing or netting to prevent predators from accessing the birds.
+                                                    <br></br>
+                                                    <br></br>
+                                                    Overall, providing your chickens with access to the outdoors for a few hours each day, along with a safe and secure indoor area, can help ensure that they remain healthy and happy.
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <img src="https://i.imgur.com/Q9ea4os.jpg" alt="3D printed chicken mail flag in black" width="100%"></img>
+                                            <div class="chickenimgtext">
+                                                <p>3D printed a chicken mail flag. To let everyone know all the chicks we have.</p>
+                                            </div>
+                                        </div>
+                                </div>
+                                <div>
+                                        <h2 class="chickentitle">More Chicken Nuggets</h2>
+                                        <div class="chickenimg">
+                                            <img src="https://i.imgur.com/6ix8ZqC.jpg" alt="Sign for Rhode Island Red with many chicks" width="100%"></img>
+                                            <div class="chickenimgtext">
+                                                <p>Rhode Island Reds</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <img src="https://i.imgur.com/tnO0ZgJ.jpg" alt="Sign for Silver-Laced Wyandotte with many chicks" width="100%"></img>
+                                            <div class="chickenimgtext">
+                                                <p>Silver-Laced Wyandottes</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <img src="https://i.imgur.com/qkBchCa.jpgg" alt="Sign for Cuckoo Marans with many chicks" width="100%"></img>
+                                            <div class="chickenimgtext">
+                                                <p>Cuckoo Marans</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <img src="https://i.imgur.com/8naRR7Q.jpg" alt="Sign for Black Jersey Giants with many chicks" width="100%"></img>
+                                            <div class="chickenimgtext">
+                                                <p>Black Jersey Giants</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <img src="https://i.imgur.com/vxQBMMN.jpg" alt="Sign for Buff Brahmas with many chicks" width="100%"></img>
+                                            <div class="chickenimgtext">
+                                                <p>Buff Brahmas</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickentext">
+                                            <p class="boldleft">03.01.2023</p>
+                                            <p class="left">
+                                                So we went back to the chick store cause they got a new shipment of chicks today of different breeds this week and we wanted to see what they had.
+                                                After checking out all the breeds, we ended up leaving with 5 baby chicks. One of each breed, Rhode Island Red, Silver-Laced Wyandotte, Cuckoo Maran, Black Jersey Giant, and Buff Brahma.
+                                                In total our flock consists of 15 chicks and we think that is enough for now.
+                                                <br></br>
+                                                <br></br>
+                                                We also got a large pet play-pen so the chicks would have more space to roam around.
+
+                                            </p>
+                                            <div class="facts">
+                                                <p class="left">
+                                                There are hundreds of different breeds of chickens, with varying physical characteristics, temperaments, and egg-laying abilities. The exact number of breeds can vary depending on the source, as there are many regional and local varieties that may not be recognized on a global scale.
+                                                <br></br>
+                                                <br></br>
+                                                According to the American Poultry Association (APA), there are currently recognized 500 breeds and varieties of chickens worldwide, with 500 more in development. The APA recognizes breeds based on standard characteristics such as feather color, body shape, comb style, and other physical traits.
+                                                <br></br>
+                                                <br></br>
+                                                Determining the rarest breed of chicken can be challenging, as rarity can be subjective and can vary based on geographical location. However, some breeds that are considered rare include the Ayam Cemani, a breed from Indonesia known for its black feathers and black internal organs, and the Blue Java, a breed from the Philippines known for its blue-grey feathers and gentle disposition. Other rare breeds include the Swedish Flower Hen, the Belgian Bearded d'Uccle, and the Yokohama.
+                                                <br></br>
+                                                <br></br>
+                                                It's important to note that many rare breeds of chickens are also endangered, with some facing the risk of extinction due to a variety of factors, including habitat loss, predation, and changes in farming practices. Therefore, it's important to support efforts to conserve and protect rare and endangered breeds of chickens, as well as to promote sustainable and humane farming practices.
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <img src="https://i.imgur.com/xG0D40I.jpg" alt="Assortment of chicks in playpen with feeders and waterer" width="100%"></img>
+                                            <div class="chickenimgtext">
+                                                <p>Our Flock of Fifteen! &#128037;</p>
+                                            </div>
+                                        </div>
+                                </div>
+
+
+
+
+
+
+
+
+                                
+                                
+                                {/* <div>
+                                        <h2 class="chickentitle">Title</h2>
+                                        <div class="chickenimg">
+                                            <img src="" alt="Alt text" width="100%"></img>
+                                            <div class="chickenimgtext">
+                                                <p>Comment</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickentext">
+                                            <p class="boldleft">Date</p>
+                                            <p class="left">Description</p>
+                                            <div class="facts">
+                                                <p class="left">Chicken Facts</p>
+                                            </div>
+                                        </div>
+                                    </div> */}
 
 
 
                         </div>
         </div>
-
-
-
-
-
-
             </div>
         </div>
     );
