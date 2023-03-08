@@ -23,19 +23,19 @@ export const NavBar = () => {
                         <Link to ="/" className="navbutton">Home</Link> 
                     </li>
                     <li>
-                        <Link to ="/coffee" className="navbutton">Coffee</Link>
+                        <Link to ="/chicken" className="navbutton">Chicken</Link>
                     </li>
                     <li>
-                        <Link to ="/todolist" className="navbutton">To-Do List</Link> 
+                        <Link to ="/weather" className="navbutton">Weather</Link>
                     </li>
                     <li>
                         <Link to ="/tipcalculator" className="navbutton">Tip Calculator</Link>
                     </li>
                     <li>
-                        <Link to ="/chicken" className="navbutton">Chicken</Link>
+                        <Link to ="/todolist" className="navbutton">To-Do List</Link> 
                     </li>
                     <li>
-                        <Link to ="/empty" className="navbutton">Empty</Link>
+                        <Link to ="/coffee" className="navbutton">Coffee</Link>
                     </li>
                 </ul>
             </div>

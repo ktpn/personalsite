@@ -74,19 +74,20 @@ button {
 }
 
 .nav {
-  margin-right: 1%;
-  margin-left: 1%;
   margin-bottom: 2%;
   font-size: 2vh;
   justify-content: center;
-  width: auto;
+  width: 100%;
 } 
 
 .navbutton {
   color: white;
   text-decoration: none;
   font-weight: bold;
-  padding: 5%;
+  display: inline-block;
+  padding: 8px;
+  overflow: hidden;
+
 }
 
 .navbutton:hover {
@@ -101,6 +102,9 @@ button {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  box-shadow: 10px 4px 8px 0 rgba(0, 0, 0, 0.3), 5px 6px 30px 0 rgba(0, 0, 0, 0.19);
 }
 
 .navmenu ul {
@@ -109,7 +113,7 @@ button {
 
 .navmenu li {
   list-style-type: none;
-  margin: 0 1rem;
+  margin: 0 1.5rem;
 }
 
 .navmenu li a {
@@ -119,15 +123,15 @@ button {
 }
 
 .hamburger {
-  border: 0;
   height: 50px;
   width: 50px;
   background-color: rgb(62, 152, 255, 0.8);
+  border: 2px solid black;
   padding: 0.5rem;
   cursor: pointer;
   transition: background-color 0.2s ease-in-out;
   position: fixed;
-  top: 4%;
+  top: 5%;
   left: 10px;
   transform: translateY(-50%);
   display: none;
@@ -183,12 +187,14 @@ input[type="text"] {
 
 .calculator {
   text-transform: uppercase;
-  background-image: url(https://cdn.pixabay.com/photo/2016/04/30/00/28/dollar-1362244_960_720.jpg);
+  background-image: url(https://cdn.pixabay.com/photo/2015/09/15/15/53/bank-notes-941246_960_720.jpg);
   background-size: cover;
-  padding: 10%;
+  padding: 5%;
   font-size: 20px;
   font-weight: bold;
   border-radius: 50px;
+  height: auto;
+  border: 3px solid black;
 }
 
 .calculatorinfo {
@@ -196,7 +202,13 @@ input[type="text"] {
   border-radius: 50px;
   backdrop-filter: blur(5px);
   border: 3px solid black;
-  padding: 5%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  width: 550px;
+  display: inline-block;
+  justify-content: center;
+  box-shadow: 10px 4px 8px 0 rgba(0, 0, 0, 0.3), 5px 6px 30px 0 rgba(0, 0, 0, 0.19);
+
 }
 
 .split span {
@@ -218,6 +230,7 @@ input[type="text"] {
   color: white;
   font-weight: 500;
   text-shadow: -3px 3px 5px black;
+  padding-bottom: 5%;
 }
 
 .chicken {
@@ -232,6 +245,7 @@ input[type="text"] {
   margin-left: 10%;
   margin-right: 10%;
   padding-top: 3%;
+  padding-bottom: 3%;
 }
 
 .chickentitle {
@@ -279,6 +293,45 @@ input[type="text"] {
   text-align: left;
 }
 
+.center {
+  text-align: center;
+}
+
+.unbullet {
+  list-style-type: none;
+}
+
+.weathercard {
+  background-color: rgb(255, 203, 164);
+  width: 650px;
+  display: inline-block;
+  justify-content: center;
+  border-radius: 50px;
+  box-shadow: 10px 4px 8px 0 rgba(0, 0, 0, 0.3), 5px 6px 30px 0 rgba(0, 0, 0, 0.19);
+  z-index: 1;
+  padding-bottom: 2%;
+}
+
+.weathertitle {
+  height: 80px;
+  width: 500px;
+  display: inline-block;
+  justify-content: center;
+  padding-top: 1%;
+}
+
+.divider {
+  border-top: 5px solid white;
+  border-radius: 5px;
+  width: 500px;
+  margin: auto;
+}
+
+.credit {
+  font-size: 13px;
+  padding-top: 7%;
+}
+
 
 
 
@@ -292,13 +345,13 @@ input[type="text"] {
   }
 
   .navmenu ul {
-    position: absolute;
+    position: fixed;
     top: 40px;
     left: 0;
-    width: 100%;
+    width: 60%;
     flex-direction: column;
     height: auto;
-    border: 1px solid black;
+    border: 2px solid black;
     text-align: center;
     background-color: rgb(62, 152, 255, 0.9);
     border-radius: 10px;

@@ -39,10 +39,10 @@ export const Tip = () => {
 
     return (
         <div className="App calculator">
+            <div className="calculatorinfo">
                 <div className="tipTitle">
                     <h1>Tip Calculator</h1>
                 </div>
-            <div className="calculatorinfo">
                 <div className="total">
                     <label>Bill Total ($): </label>
                     <input type="text" size="5" placeholder="0" value={bill} onChange={handleBillChange} />

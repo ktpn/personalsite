@@ -6,14 +6,16 @@ export const Chicken = () => {
             <div class="chicken">
                 <div class="chickenstuff">
                     <h1>CAN'T STOP CHICKEN YOU OUT</h1>
-                    <p>This is our progress of raising chickens <br></br>
+                    <p>This is our venture of raising chickens <br></br>
                     and also building a chicken coop</p>
                     <p>Most facts are AI generated thanks to ChatGPT</p>
                 
                     <div>
-                        <h2 class="chickentitle">We got chicks!! &#128035; &#128036; &#128037; </h2>
+                        <h2 class="chickentitle">IT'S A FOWL!!!</h2>
                         <div class="chickenimg">
-                            <img src="https://i.imgur.com/dMl3M8s.jpg" alt="Chicks in white paper bag" width="100%"></img>
+                            <a href="https://i.imgur.com/dMl3M8s.jpg" target="_blank" rel="noreferrer">
+                                <img src="https://i.imgur.com/dMl3M8s.jpg" alt="Chicks in white paper bag" width="100%"></img>
+                            </a>
                             <div class="chickenimgtext">
                                 <p>From a straight run, we adopted 5 one week old chicks</p>
                             </div>
@@ -42,14 +44,18 @@ export const Chicken = () => {
                                 </p>
                             </div>
                             <div class="chickenimg">
-                            <img src="https://i.imgur.com/L9TTc0x.jpg" alt="Chicks huddle in cardboard box with bedding" width="100%"></img>
+                                <a href="https://i.imgur.com/L9TTc0x.jpg" target="_blank" rel="noreferrer">
+                                    <img src="https://i.imgur.com/L9TTc0x.jpg" alt="Chicks huddle in cardboard box with bedding" width="100%"></img>
+                                </a>
                             <div class="chickenimgtext">
                                 <p>In temporary transfer/playpen, everyone trying to get along.</p>
                             </div>
                         </div>
-                            <h2 class="chickentitle">Chicken Nuggets</h2>
+                            <h2 class="chickentitle">Chicken Nuggets &#128035; &#128036; &#128037;</h2>
                             <div class="chickenimg">
-                                <img src="https://i.imgur.com/laiO55U.jpg" alt="Chicks on a brown towel" width="100%"></img>
+                                <a href="https://i.imgur.com/laiO55U.jpg" target="_blank" rel="noreferrer">
+                                    <img src="https://i.imgur.com/laiO55U.jpg" alt="Chicks on a brown towel" width="100%"></img>
+                                </a>
                                 <div class="chickenimgtext">
                                     <p>The flock on the bed with a towel just in case.</p>
                                 </div>
@@ -64,7 +70,9 @@ export const Chicken = () => {
 
                                 <h2 class="chickentitle">Valentine's Day</h2>
                                 <div class="chickenimg">
-                                <img src="https://i.imgur.com/Z7fOvqS.jpg" alt="Chick on light color speckled kitchen counter" width="100%"></img>
+                                    <a href="https://i.imgur.com/Z7fOvqS.jpg" target="_blank" rel="noreferrer">
+                                        <img src="https://i.imgur.com/Z7fOvqS.jpg" alt="Chick on light color speckled kitchen counter" width="100%"></img>
+                                    </a>
                                     <div class="chickenimgtext">
                                         <p>"I can't stop chicken you out!"</p>
                                     </div>
@@ -79,7 +87,9 @@ export const Chicken = () => {
 
                                 <h2 class="chickentitle">Family Photo</h2>
                                 <div class="chickenimg">
-                                <img src="https://i.imgur.com/tcZle1b.jpg" alt="Five chicks in the grass" width="100%"></img>
+                                    <a href="https://i.imgur.com/tcZle1b.jpg" target="_blank" rel="noreferrer">
+                                        <img src="https://i.imgur.com/tcZle1b.jpg" alt="Five chicks in the grass" width="100%"></img>
+                                    </a>
                                     <div class="chickenimgtext">
                                         <p>The Flock</p>
                                     </div>
@@ -95,7 +105,9 @@ export const Chicken = () => {
                                 <div>
                                     <h2 class="chickentitle">Design an egg-cellent coop</h2>
                                     <div class="chickenimg">
-                                        <img src="https://i.imgur.com/fUQ3FHF.png" alt="Quick 3D model of a chicken coop" width="100%"></img>
+                                        <a href="https://i.imgur.com/X4M3tzJ.png" target="_blank" rel="noreferrer">
+                                            <img src="https://i.imgur.com/X4M3tzJ.png" alt="Quick 3D model of a chicken coop" width="100%"></img>
+                                        </a>
                                             <div class="chickenimgtext">
                                                 <p>"The Eggloo"</p>
                                             </div>
@@ -120,7 +132,9 @@ export const Chicken = () => {
                                 <div>
                                     <h2 class="chickentitle">Build it and the eggs will come</h2>
                                     <div class="chickenimg">
-                                        <img src="https://i.imgur.com/XHQgYaj.jpg" alt="Truck bed with wood boards and studs" width="100%"></img>
+                                        <a href="https://i.imgur.com/XHQgYaj.jpg" target="_blank" rel="noreferrer">
+                                            <img src="https://i.imgur.com/XHQgYaj.jpg" alt="Truck bed with wood boards and studs" width="100%"></img>
+                                        </a>
                                             <div class="chickenimgtext">
                                                 <p>The first of many trips to Lowe's.</p>
                                             </div>
@@ -141,7 +155,9 @@ export const Chicken = () => {
                                                 In ancient Rome, chickens were sometimes kept in small mobile coops called "arcas". These coops were designed to be moved around the garden or yard so that the chickens could feed on insects and weeds, while also fertilizing the soil. This practice of using mobile coops for chickens is still popular today and is known as "chicken tractor" or "mobile coop" farming.
                                             </p>
                                             <div class="chickenimg">
-                                                <img src="https://i.imgur.com/Ay91duw.jpg" alt="Assortment of chicks in wood chip bedding in the corner" width="100%"></img>
+                                                <a href="https://i.imgur.com/Ay91duw.jpg" target="_blank" rel="noreferrer">
+                                                    <img src="https://i.imgur.com/Ay91duw.jpg" alt="Assortment of chicks in wood chip bedding in the corner" width="100%"></img>
+                                                </a>
                                                 <div class="chickenimgtext">
                                                     <p>Updated flock picture</p>
                                                 </div>
@@ -154,7 +170,9 @@ export const Chicken = () => {
                                 <div>
                                     <h2 class="chickentitle">Working around the cluck</h2>
                                     <div class="chickenimg">
-                                    <img src="https://i.imgur.com/zy9tjaf.jpg" alt="wood structure with legs and larger cut out on top a fence panel" width="100%"></img>
+                                        <a href="https://i.imgur.com/zy9tjaf.jpg" target="_blank" rel="noreferrer">
+                                            <img src="https://i.imgur.com/zy9tjaf.jpg" alt="wood structure with legs and larger cut out on top a fence panel" width="100%"></img>
+                                        </a>
                                     <div class="chickenimgtext">
                                     <p>The base and the walls with the door opening.</p>
                                     </div>
@@ -180,7 +198,9 @@ export const Chicken = () => {
                                         Overall, a speed square is a versatile and handy tool that can be used for a wide range of measuring and cutting tasks in construction and woodworking projects.
                                     </p>
                                     <div class="chickenimg">
-                                    <img src="https://i.imgur.com/uxhozp9.jpg" alt="orange speed square" width="100%"></img>
+                                        <a href="https://i.imgur.com/uxhozp9.jpg" target="_blank" rel="noreferrer">
+                                            <img src="https://i.imgur.com/uxhozp9.jpg" alt="orange speed square" width="100%"></img>
+                                        </a>
                                     <div class="chickenimgtext">
                                     <p>Swanson Speed Square</p>
                                     </div>
@@ -191,7 +211,9 @@ export const Chicken = () => {
                                 <div>
                                     <h2 class="chickentitle">The Plot Chickens</h2>
                                     <div class="chickenimg">
-                                        <img src="https://i.imgur.com/lHm4Lbt.jpg" alt="An assortment of seven chicks with bedding in a box" width="100%"></img>
+                                        <a href="https://i.imgur.com/lHm4Lbt.jpg" target="_blank" rel="noreferrer">
+                                            <img src="https://i.imgur.com/lHm4Lbt.jpg" alt="An assortment of seven chicks with bedding in a box" width="100%"></img>
+                                        </a>
                                         <div class="chickenimgtext">
                                             <p>Added 7 more chicks to the flock, lots of fluffy butts</p>
                                         </div>
@@ -204,25 +226,33 @@ export const Chicken = () => {
                                             We picked out 4 Silkies, 2 from the Crested Special bin and 1 from the Easter Eggers.
                                         </p>
                                     <div class="chickenimg">
+                                        <a href="https://i.imgur.com/C8uezzF.jpg" target="_blank" rel="noreferrer">
                                             <img src="https://i.imgur.com/C8uezzF.jpg" alt="Silkie selection with price" width="100%"></img>
+                                        </a>
                                             <div class="chickenimgtext">
                                                 <p>Potential Silkie breeds we might have</p>
                                             </div>
                                     </div>
                                     <div class="chickenimg">
+                                        <a href="https://i.imgur.com/tu5ECq6.jpg" target="_blank" rel="noreferrer">
                                             <img src="https://i.imgur.com/tu5ECq6.jpg" alt="Crested Specials selection with price" width="100%"></img>
+                                        </a>
                                             <div class="chickenimgtext">
                                                 <p>Crested Special breeds we might have, hoping for the Sultan and a Polish.</p>
                                             </div>
                                     </div>
                                     <div class="chickenimg">
+                                        <a href="https://i.imgur.com/LCtXL97.jpg" target="_blank" rel="noreferrer">
                                             <img src="https://i.imgur.com/LCtXL97.jpg" alt="Easter Egger sign with price" width="100%"></img>
+                                        </a>
                                             <div class="chickenimgtext">
                                                 <p>Easter Egger, hoping for blue eggs</p>
                                             </div>
                                     </div>
                                     <div class="chickenimg">
+                                        <a href="https://i.imgur.com/g7oIPMo.jpg" target="_blank" rel="noreferrer">
                                             <img src="https://i.imgur.com/g7oIPMo.jpg" alt="Chick selection sheet" width="100%"></img>
+                                        </a>
                                             <div class="chickenimgtext">
                                                 <p>Our order sheet.</p>
                                             </div>
@@ -238,7 +268,9 @@ export const Chicken = () => {
                                             </p>
                                     </div>
                                     <div class="chickenimg">
+                                        <a href="https://i.imgur.com/9cdBSsZ.jpg" target="_blank" rel="noreferrer">
                                             <img src="https://i.imgur.com/9cdBSsZ.jpg" alt="Manna Pro Hydro-hen supplement" width="100%"></img>
+                                        </a>
                                             <div class="chickenimgtext">
                                                 <p>Drinking water supplement for our chicks</p>
                                             </div>
@@ -256,7 +288,9 @@ export const Chicken = () => {
                                             </p>
                                     </div>
                                     <div class="chickenimg">
+                                        <a href="https://i.imgur.com/3TNnogm.jpg" target="_blank" rel="noreferrer">
                                             <img src="https://i.imgur.com/3TNnogm.jpg" alt="Chicken coop frontal view with single slant roof all unpainted and unfinished, with chicken door cut out" width="100%"></img>
+                                        </a>
                                             <div class="chickenimgtext">
                                                 <p>Made rafters and added the roof panel. Also cut out the chicken door.</p>
                                             </div>
@@ -266,7 +300,9 @@ export const Chicken = () => {
                                 <div>
                                         <h2 class="chickentitle">Fowl Play</h2>
                                         <div class="chickenimg">
-                                            <img src="https://i.imgur.com/eEVoyd3.jpg" alt="Chicks in the corner with red light in bedding" width="100%"></img>
+                                            <a href="https://i.imgur.com/eEVoyd3.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/eEVoyd3.jpg" alt="Chicks in the corner with red light in bedding" width="100%"></img>
+                                            </a>
                                             <div class="chickenimgtext">
                                                 <p>Some of the new chicks cuddling up in the corner.</p>
                                             </div>
@@ -297,13 +333,17 @@ export const Chicken = () => {
                                                 </p>
                                             </div>
                                             <div class="chickenimg">
-                                                <img src="https://i.imgur.com/zaAQLnm.jpg" alt="Unpainted wooden chicken coop with nesting boxes added to both sides" width="100%"></img>
+                                                <a href="https://i.imgur.com/zaAQLnm.jpg" target="_blank" rel="noreferrer">
+                                                    <img src="https://i.imgur.com/zaAQLnm.jpg" alt="Unpainted wooden chicken coop with nesting boxes added to both sides" width="100%"></img>
+                                                </a>
                                                 <div class="chickenimgtext">
                                                     <p>Nesting boxes installed.</p>
                                                 </div>
                                             </div>
                                             <div class="chickenimg">
-                                                <img src="https://i.imgur.com/aqO68V3.jpg" alt="Unpainted wooden chicken coop with nesting boxes added to both sides view from the rear" width="100%"></img>
+                                                <a href="https://i.imgur.com/aqO68V3.jpg" target="_blank" rel="noreferrer">
+                                                    <img src="https://i.imgur.com/aqO68V3.jpg" alt="Unpainted wooden chicken coop with nesting boxes added to both sides view from the rear" width="100%"></img>
+                                                </a>
                                                 <div class="chickenimgtext">
                                                     <p>Nesting boxes installed. Rear view.</p>
                                                 </div>
@@ -321,7 +361,9 @@ export const Chicken = () => {
                                             </p>
                                             </div>
                                             <div class="chickenimg">
-                                                <img src="https://i.imgur.com/C9Vozyy.jpg" alt="Chick with pasty butt sleeping" width="100%"></img>
+                                                <a href="https://i.imgur.com/C9Vozyy.jpg" target="_blank" rel="noreferrer">
+                                                    <img src="https://i.imgur.com/C9Vozyy.jpg" alt="Chick with pasty butt sleeping" width="100%"></img>
+                                                </a>
                                                 <div class="chickenimgtext">
                                                     <p>A Silkie with Pasty Butt spotted.</p>
                                                 </div>
@@ -356,7 +398,9 @@ export const Chicken = () => {
                                                     </p>
                                                 </div>
                                                 <div class="chickenimg">
-                                                    <img src="https://i.imgur.com/ws5e5Gy.jpg" alt="Two Silkies asleep under red light" width="100%"></img>
+                                                    <a href="https://i.imgur.com/ws5e5Gy.jpg" target="_blank" rel="noreferrer">
+                                                        <img src="https://i.imgur.com/ws5e5Gy.jpg" alt="Two Silkies asleep under red light" width="100%"></img>
+                                                    </a>
                                                     <div class="chickenimgtext">
                                                         <p>Clean and sleepy butt.</p>
                                                     </div>
@@ -367,7 +411,9 @@ export const Chicken = () => {
                                 <div>
                                         <h2 class="chickentitle">Painting</h2>
                                         <div class="chickenimg">
-                                            <img src="https://i.imgur.com/WdbTlbR.jpg" alt="Chicken coop first layer of white paint" width="100%"></img>
+                                            <a href="https://i.imgur.com/WdbTlbR.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/WdbTlbR.jpg" alt="Chicken coop first layer of white paint" width="100%"></img>
+                                            </a>
                                             <div class="chickenimgtext">
                                                 <p>First layer of paint.</p>
                                             </div>
@@ -379,27 +425,22 @@ export const Chicken = () => {
                                                 We will need to paint at least two layers to make the paint look even and we also plan on painting the inside of the coop to prevent mildew and mold.
 
                                             </p>
-                                            <div class="facts">
-                                                <p class="left">Chicken Facts</p>
-                                            </div>
-                                        </div>
-                                        <div class="chickenimg">
-                                            <img src="https://i.imgur.com/eEVoyd3.jpg" alt="Several chicks in the corner with bedding under red light" width="100%"></img>
-                                            <div class="chickenimgtext">
-                                                <p>Some chicks are camera shy, some are not.</p>
-                                            </div>
                                         </div>
                                 </div>
                                 <div>
                                         <h2 class="chickentitle">Roof on the coop-da-ville</h2>
                                         <div class="chickenimg">
-                                            <img src="https://i.imgur.com/27OjNZ9.jpg" alt="White chicken coop with roof installed" width="100%"></img>
+                                            <a href="https://i.imgur.com/27OjNZ9.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/27OjNZ9.jpg" alt="White chicken coop with roof installed" width="100%"></img>
+                                            </a>
                                             <div class="chickenimgtext">
                                                 <p>Roof installed.</p>
                                             </div>
                                         </div>
                                         <div class="chickenimg">
-                                            <img src="https://i.imgur.com/8qdKf3i.jpg" alt="White chicken coop with roof installed. Rear view." width="100%"></img>
+                                            <a href="https://i.imgur.com/8qdKf3i.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/8qdKf3i.jpg" alt="White chicken coop with roof installed. Rear view." width="100%"></img>
+                                            </a>
                                             <div class="chickenimgtext">
                                                 <p>Roof installed. Rear view.</p>
                                             </div>
@@ -427,7 +468,9 @@ export const Chicken = () => {
                                             </div>
                                         </div>
                                         <div class="chickenimg">
-                                            <img src="https://i.imgur.com/Q9ea4os.jpg" alt="3D printed chicken mail flag in black" width="100%"></img>
+                                            <a href="https://i.imgur.com/Q9ea4os.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/Q9ea4os.jpg" alt="3D printed chicken mail flag in black" width="100%"></img>
+                                            </a>
                                             <div class="chickenimgtext">
                                                 <p>3D printed a chicken mail flag. To let everyone know all the chicks we have.</p>
                                             </div>
@@ -436,31 +479,41 @@ export const Chicken = () => {
                                 <div>
                                         <h2 class="chickentitle">More Chicken Nuggets</h2>
                                         <div class="chickenimg">
-                                            <img src="https://i.imgur.com/6ix8ZqC.jpg" alt="Sign for Rhode Island Red with many chicks" width="100%"></img>
+                                            <a href="https://i.imgur.com/6ix8ZqC.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/6ix8ZqC.jpg" alt="Sign for Rhode Island Red with many chicks" width="100%"></img>
+                                            </a>
                                             <div class="chickenimgtext">
                                                 <p>Rhode Island Reds</p>
                                             </div>
                                         </div>
                                         <div class="chickenimg">
-                                            <img src="https://i.imgur.com/tnO0ZgJ.jpg" alt="Sign for Silver-Laced Wyandotte with many chicks" width="100%"></img>
+                                            <a href="https://i.imgur.com/tnO0ZgJ.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/tnO0ZgJ.jpg" alt="Sign for Silver-Laced Wyandotte with many chicks" width="100%"></img>
+                                            </a>
                                             <div class="chickenimgtext">
                                                 <p>Silver-Laced Wyandottes</p>
                                             </div>
                                         </div>
                                         <div class="chickenimg">
-                                            <img src="https://i.imgur.com/qkBchCa.jpgg" alt="Sign for Cuckoo Marans with many chicks" width="100%"></img>
+                                            <a href="https://i.imgur.com/qkBchCa.jpgg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/qkBchCa.jpgg" alt="Sign for Cuckoo Marans with many chicks" width="100%"></img>
+                                            </a>
                                             <div class="chickenimgtext">
                                                 <p>Cuckoo Marans</p>
                                             </div>
                                         </div>
                                         <div class="chickenimg">
-                                            <img src="https://i.imgur.com/8naRR7Q.jpg" alt="Sign for Black Jersey Giants with many chicks" width="100%"></img>
+                                            <a href="https://i.imgur.com/8naRR7Q.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/8naRR7Q.jpg" alt="Sign for Black Jersey Giants with many chicks" width="100%"></img>
+                                            </a>
                                             <div class="chickenimgtext">
                                                 <p>Black Jersey Giants</p>
                                             </div>
                                         </div>
                                         <div class="chickenimg">
-                                            <img src="https://i.imgur.com/vxQBMMN.jpg" alt="Sign for Buff Brahmas with many chicks" width="100%"></img>
+                                            <a href="https://i.imgur.com/vxQBMMN.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/vxQBMMN.jpg" alt="Sign for Buff Brahmas with many chicks" width="100%"></img>
+                                            </a>
                                             <div class="chickenimgtext">
                                                 <p>Buff Brahmas</p>
                                             </div>
@@ -470,11 +523,27 @@ export const Chicken = () => {
                                             <p class="left">
                                                 So we went back to the chick store cause they got a new shipment of chicks today of different breeds this week and we wanted to see what they had.
                                                 After checking out all the breeds, we ended up leaving with 5 baby chicks. One of each breed, Rhode Island Red, Silver-Laced Wyandotte, Cuckoo Maran, Black Jersey Giant, and Buff Brahma.
+                                                We also got a large pet play-pen so the chicks would have more space to roam around.
                                                 In total our flock consists of 15 chicks and we think that is enough for now.
                                                 <br></br>
                                                 <br></br>
-                                                We also got a large pet play-pen so the chicks would have more space to roam around.
-
+                                                <ul className="center unbullet">
+                                                    <b><u>Our flock as of 03.01.2023</u></b>
+                                                    <br></br>
+                                                    <br></br>
+                                                    <li>3 Unknown breeds</li>
+                                                    <li>4 Silkies</li>
+                                                    <li>1 Sultan</li>
+                                                    <li>1 Polish</li>
+                                                    <li>1 Easter Egger</li>
+                                                    <li>1 Rhode Island Red</li>
+                                                    <li>1 Cuckoo Maran</li>
+                                                    <li>1 Big Jersey Giant</li>
+                                                    <li>1 Silver-Laced Wyandotte</li>
+                                                    <li>1 Buff Brahma</li>
+                                                </ul>
+                                                <br></br>
+                                                <br></br>
                                             </p>
                                             <div class="facts">
                                                 <p class="left">
@@ -492,12 +561,85 @@ export const Chicken = () => {
                                             </div>
                                         </div>
                                         <div class="chickenimg">
-                                            <img src="https://i.imgur.com/xG0D40I.jpg" alt="Assortment of chicks in playpen with feeders and waterer" width="100%"></img>
+                                            <a href="https://i.imgur.com/xG0D40I.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/xG0D40I.jpg" alt="Assortment of chicks in playpen with feeders and waterer" width="100%"></img>
+                                            </a>
                                             <div class="chickenimgtext">
                                                 <p>Our Flock of Fifteen! &#128037;</p>
                                             </div>
                                         </div>
                                 </div>
+                                <div>
+                                        <h2 class="chickentitle">Working around the cluck</h2>
+                                        <div class="chickenimg">
+                                            <a href="https://i.imgur.com/6s7DvAm.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/6s7DvAm.jpg" alt="White chicken coop with ramp and new drop down vent" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Added hinges, drop down vent, roof flashing, and a ramp.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <a href="https://imgur.com/bP7LIuB" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/bP7LIuB.jpg" alt="Inside nesting box with dividers" width="100%" />
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Added nesting box dividers with placement holders. Black holder is 3D printed.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickentext">
+                                            <p class="boldleft">03.05.2023</p>
+                                            <p class="left">
+                                                Hinges arrived and got to installing them on the nesting boxes and the large door in the back.
+                                                Also made a cut out vent with a screen and added the same hinges to it. We also adding roof flashing to prevent water from entering from the sides and made a small ramp from spare fencing pieces.
+                                                Getting ideas for the dividers of the nesting boxes was daunting but I came up with a design that would hold it in place while maximize the chicken nesting space.
+                                                I used some spare pieces of wood to hold the front of the dividers and 3D printed the back support for it.
+                                            </p>
+                                            <div class="facts">
+                                                <p class="left">
+                                                    Dividers are commonly used in chicken nesting boxes for several reasons:
+                                                    <ol>
+                                                        <li>
+                                                            To keep the hens in their own designated nesting box: Dividers help to prevent hens from laying eggs in the same box or disrupting another hen while it's laying an egg. This can lead to egg breakage and other problems, and can also cause stress for the hens.
+                                                        </li>
+                                                        <li>
+                                                            To provide privacy: Hens need a quiet and private place to lay their eggs. Dividers help to create a secluded space where hens can lay their eggs without disturbance from other hens or other external factors.
+                                                        </li>
+                                                        <li>
+                                                            To prevent egg damage: Dividers help to keep the eggs in place and prevent them from rolling around or getting damaged. When hens lay their eggs, they can be quite rough with them, and without dividers, the eggs may break or crack.
+                                                        </li>
+                                                        <li>
+                                                            To make cleaning easier: Dividers make it easier to clean the nesting boxes, as they help to keep the eggs in one place, making it less likely that they will be accidentally knocked over during cleaning.
+                                                        </li>
+                                                    </ol>
+                                                    Overall, dividers are an essential part of chicken nesting boxes as they help to create a comfortable and safe environment for hens to lay their eggs.
+                                                </p>
+                                            </div>
+                                        </div>
+                                </div>
+                                <div>
+                                        <h2 class="chickentitle">Next Entry</h2>
+                                        <div class="chickenimg">
+                                            <a href="" target="_blank" rel="noreferrer">
+                                                <img src="" alt="Alt text" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Image Comment</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickentext">
+                                            <p class="boldleft">Date</p>
+                                            <p class="left">
+                                                Description
+                                            </p>
+                                            <div class="facts">
+                                                <p class="left">
+                                                    AI Generated Chicken Facts
+                                                </p>
+                                            </div>
+                                        </div>
+                                </div>
+                                
 
 
 
@@ -511,7 +653,9 @@ export const Chicken = () => {
                                 {/* <div>
                                         <h2 class="chickentitle">Title</h2>
                                         <div class="chickenimg">
-                                            <img src="" alt="Alt text" width="100%"></img>
+                                            <a href="" target="_blank" rel="noreferrer">
+                                                <img src="" alt="Alt text" width="100%"></img>
+                                            </a>
                                             <div class="chickenimgtext">
                                                 <p>Comment</p>
                                             </div>
