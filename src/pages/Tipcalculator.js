@@ -35,7 +35,7 @@ export const Tip = () => {
 
     useEffect(() => {
         calculate();
-    }, [bill, tip, split])
+    }, [bill, tip, split]);
 
     return (
         <div className="App calculator">

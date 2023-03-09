@@ -102,8 +102,8 @@ button {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 5%;
+  margin-right: 5%;
   box-shadow: 10px 4px 8px 0 rgba(0, 0, 0, 0.3), 5px 6px 30px 0 rgba(0, 0, 0, 0.19);
 }
 
@@ -114,6 +114,7 @@ button {
 .navmenu li {
   list-style-type: none;
   margin: 0 1.5rem;
+  
 }
 
 .navmenu li a {
@@ -137,7 +138,6 @@ button {
   display: none;
 }
 
-
 .coffeestuff {
   background-image: url(https://cdn.pixabay.com/photo/2017/08/06/07/10/coffee-2589761_960_720.jpg);
   background-size: cover;
@@ -152,13 +152,12 @@ button {
   background-color: rgb(83, 82, 82, 0.8);
   border-radius: 50px;
   border: 3px solid black;
-  margin: 10%;
+  margin: 5%;
 }
 
 .coffee1 {
   display: flex;
   justify-content: center;
-  margin: 2em 0em 2em 0em;
 }
 
 a {
@@ -204,7 +203,8 @@ input[type="text"] {
   border: 3px solid black;
   padding-top: 3%;
   padding-bottom: 3%;
-  width: 550px;
+  padding-left: 2%;
+  padding-right: 2%;
   display: inline-block;
   justify-content: center;
   box-shadow: 10px 4px 8px 0 rgba(0, 0, 0, 0.3), 5px 6px 30px 0 rgba(0, 0, 0, 0.19);
@@ -303,18 +303,17 @@ input[type="text"] {
 
 .weathercard {
   background-color: rgb(255, 203, 164);
-  width: 650px;
+  max-width: 650px;
   display: inline-block;
   justify-content: center;
   border-radius: 50px;
   box-shadow: 10px 4px 8px 0 rgba(0, 0, 0, 0.3), 5px 6px 30px 0 rgba(0, 0, 0, 0.19);
-  z-index: 1;
   padding-bottom: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
 }
 
 .weathertitle {
-  height: 80px;
-  width: 500px;
   display: inline-block;
   justify-content: center;
   padding-top: 1%;

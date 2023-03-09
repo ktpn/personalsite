@@ -1,11 +1,10 @@
 import { useState } from "react";
-import { MemoExoticComponent } from "react";
 
 export const Weather = () => {
   const [city, setCity] = useState("");
   const [weatherData, setWeatherData] = useState({});
 
-  const API_KEY = "bd73d437a1eb26994b3d99be1e96b419";
+  const API_KEY ="bd73d437a1eb26994b3d99be1e96b419";
 
   const getWeatherData = async () => {
     try {
