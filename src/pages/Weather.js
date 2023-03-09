@@ -4,12 +4,12 @@ export const Weather = () => {
   const [city, setCity] = useState("");
   const [weatherData, setWeatherData] = useState({});
 
-  const API_KEY ="bd73d437a1eb26994b3d99be1e96b419";
+  const API_KEY="process.env.REACT_APP_API_CODE";
 
   const getWeatherData = async () => {
     try {
       const response = await fetch(
-        `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_KEY}&units=metric`
+        `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${process.env.REACT_APP_API_CODE}&units=metric`
       );
       const data = await response.json();
       setWeatherData(data);
