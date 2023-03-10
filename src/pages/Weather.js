@@ -4,8 +4,6 @@ export const Weather = () => {
   const [city, setCity] = useState("");
   const [weatherData, setWeatherData] = useState({});
 
-  const API_KEY="process.env.REACT_APP_API_CODE";
-
   const getWeatherData = async () => {
     try {
       const response = await fetch(
@@ -25,6 +23,47 @@ export const Weather = () => {
 
   return (
     <div className="weathercard">
+      <ul class="background2">
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
       <h1 className="weathertitle"><u>Weather App &#x26C5; </u></h1>
       <br></br>
       <form onSubmit={handleSubmit}>
@@ -54,7 +93,9 @@ export const Weather = () => {
         </div>
       )}
         <p className="credit">Data/API is thanks to <a href="https://openweathermap.org/">OpenWeather</a></p>
+    
     </div>
+    
   );
 };
 
