@@ -618,24 +618,29 @@ export const Chicken = () => {
                                         </div>
                                 </div>
                                 <div>
-                                        <h2 class="chickentitle">Next Entry</h2>
+                                        <h2 class="chickentitle">Extras</h2>
                                         <div class="chickenimg">
-                                            <a href="" target="_blank" rel="noreferrer">
-                                                <img src="" alt="Alt text" width="100%"></img>
+                                            <a href="https://i.imgur.com/WPFSVJg.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/WPFSVJg.jpg" alt="Alt text" width="100%"></img>
                                             </a>
                                             <div class="chickenimgtext">
-                                                <p>Image Comment</p>
+                                                <p>'April' our Easter Egger</p>
                                             </div>
                                         </div>
-                                        <div class="chickentext">
-                                            <p class="boldleft">Date</p>
-                                            <p class="left">
-                                                Description
-                                            </p>
-                                            <div class="facts">
-                                                <p class="left">
-                                                    AI Generated Chicken Facts
-                                                </p>
+                                        <div class="chickenimg">
+                                            <a href="https://i.imgur.com/8flZ78B.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/8flZ78B.jpg" alt="Alt text" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>'April' our Easter Egger after two weeks</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <a href="https://i.imgur.com/MPNokZK.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/MPNokZK.jpg" alt="Alt text" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>April's tail</p>
                                             </div>
                                         </div>
                                 </div>
@@ -668,9 +673,6 @@ export const Chicken = () => {
                                             </div>
                                         </div>
                                     </div> */}
-
-
-
                         </div>
         </div>
             </div>
