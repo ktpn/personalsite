@@ -335,7 +335,25 @@ input[type="text"] {
   padding-top: 7%;
 }
 
+table {
+  border: 2px solid black;
+  width: 500px;
+  height: 200px;
+}
 
+th {
+  border-bottom: 1px solid black;
+}
+
+td {
+  text-align: center;
+}
+
+.centertable {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 
 @media screen and (max-width: 768px) {

@@ -56,6 +56,7 @@ export const Home = () => {
                 <p><a href="mailto:kydesignandcode@gmail.com">Contact me</a></p>
                 <br></br>
                 <p>For egg-citing content, check out my <Link to ="/chicken">Chicken Page</Link> &#128020;.</p>
+                <p>(Updated 03-23-2023)</p>
             </div>
         </div>
         </div>

@@ -1,6 +1,20 @@
 import "../App.css";
+import React, { useState, useEffect } from "react";
+
+
 
 export const Chicken = () => {
+
+        const [days, setDays] = useState(0);
+      
+        useEffect(() => {
+          const targetDate = new Date("February 11, 2023");
+          const today = new Date();
+          const timeDiff = today.getTime() - targetDate.getTime();
+          const daysDiff = Math.floor(timeDiff / (1000 * 60 * 60 * 24));
+          setDays(daysDiff);
+        }, []);
+
     return (
         <div classname="App">
             <div class="chicken">
@@ -9,6 +23,62 @@ export const Chicken = () => {
                     <p>This is our venture of raising chickens <br></br>
                     and also building a chicken coop</p>
                     <p>Most facts are AI generated thanks to ChatGPT</p>
+
+                    <h2 class="chickentitle">Chicken Age Tracker</h2>
+                                <div class="centertable">
+                                <table>
+                                    <tr>
+                                        <th>15 Chicks</th>
+                                        <th>Age (days)</th>
+                                        <th>Weeks</th>
+                                    </tr>
+                                    <tr>
+                                        <td>First 3 Random</td>
+                                        <td>{days}</td>
+                                        <td>{((days)/7).toFixed(2)}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>4 Silkes</td>
+                                        <td>{days - 11}</td>
+                                        <td>{((days - 11)/7).toFixed(2)}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>2 Crested (Polish and Sultan)</td>
+                                        <td>{days - 11}</td>
+                                        <td>{((days - 11)/7).toFixed(2)}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Easter Egger</td>
+                                        <td>{days - 11}</td>
+                                        <td>{((days - 11)/7).toFixed(2)}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Rhode Island Red</td>
+                                        <td>{days - 18}</td>
+                                        <td>{((days - 18)/7).toFixed(2)}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Cuckoo Maran</td>
+                                        <td>{days - 18}</td>
+                                        <td>{((days - 18)/7).toFixed(2)}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Silver-Laced Wyandotte</td>
+                                        <td>{days - 18}</td>
+                                        <td>{((days - 18)/7).toFixed(2)}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Black Jersey Giant</td>
+                                        <td>{days - 18}</td>
+                                        <td>{((days - 18)/7).toFixed(2)}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Buff Brahma</td>
+                                        <td>{days - 18}</td>
+                                        <td>{((days - 18)/7).toFixed(2)}</td>
+                                    </tr>
+                                </table>
+                                </div>
                 
                     <div>
                         <h2 class="chickentitle">IT'S A FOWL!!!</h2>
@@ -538,7 +608,7 @@ export const Chicken = () => {
                                                     <li>1 Easter Egger</li>
                                                     <li>1 Rhode Island Red</li>
                                                     <li>1 Cuckoo Maran</li>
-                                                    <li>1 Big Jersey Giant</li>
+                                                    <li>1 Black Jersey Giant</li>
                                                     <li>1 Silver-Laced Wyandotte</li>
                                                     <li>1 Buff Brahma</li>
                                                 </ul>
@@ -740,17 +810,16 @@ export const Chicken = () => {
                                             </div>
                                         </div>
                                 </div>
-                                
-
-
-
-
-
-
 
 
                                 
-                                
+
+
+
+
+                
+
+
                                 {/* <div>
                                         <h2 class="chickentitle">Title</h2>
                                         <div class="chickenimg">
