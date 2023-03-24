@@ -618,10 +618,106 @@ export const Chicken = () => {
                                         </div>
                                 </div>
                                 <div>
+                                        <h2 class="chickentitle">Add-ons to the coop</h2>
+                                        <div class="chickenimg">
+                                            <a href="https://i.imgur.com/zgC2YbN.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/zgC2YbN.jpg" alt="White chicken coop with two windows and two vents" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Gave the coop some add-ons.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <a href="https://i.imgur.com/ZYihoIo.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/ZYihoIo.jpg" alt="Back side of a chicken coop unpainted frame with a small window" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Back door frame and window.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickentext">
+                                            <p class="boldleft">03.18.2023</p>
+                                            <p class="left">We decided to change the style of the nesting boxes from a roof lift up style to a side drop down door style.</p>
+                                            <p class="left">We went with this change to reduce the stress on the chickens due to when you come up from above over the chickens they think they are in danger. With the drop down door style the chicken are more at ease when you open the nesting boxes.</p>
+                                            <p class="left">Also with the static roof for the nesting boxes you can seal it and greatly reduce any water leaks. Also added flashing to the nesting boxes to greater reduce the amount of any leaks.</p>
+                                            <p class="left">Increased the amount of ventilation by adding more vents to the front. Added some windows so the chickens can have some light and so we can see what chicken business they are up to in the coop without distrubing them.</p>
+                                            <p class="left">Added a window to the backdoor and a frame around it. The backdoor frame and the nesting box frames will need to be painted soon.</p>
+                                            <div class="facts">
+                                                <p class="left">Chickens have a natural instinct to perceive aerial predators, such as hawks and eagles, as a potential threat. Therefore, when something comes from above them, it can trigger this instinctive response, causing them to feel scared or threatened.</p>
+                                                <p class="left">On the other hand, when something approaches them from the side, it does not trigger this instinctive response as strongly because it is not the typical angle of attack of a predator. Chickens are more accustomed to being approached from the side by other chickens or humans, so they are generally more comfortable with this approach.</p>
+                                                <p class="left">This is why it's important to approach chickens from the side or at their level, especially if you are trying to handle or interact with them. By doing so, you can help to minimize their stress levels and create a more positive and comfortable environment for them.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="chickenimg">
+                                            <a href="https://i.imgur.com/xocn4d1.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/xocn4d1.jpg" alt="Multiple chickens inside a coop feeding" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Chick enjoying the coop. The little ones were only out for a few hours.</p>
+                                            </div>
+                                        </div>
+                                        <div>
+                                        <h2 class="chickentitle">Chicken Run</h2>
+                                        <div class="chickenimg">
+                                            <a href="https://i.imgur.com/034TlKw.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/034TlKw.jpg" alt="White chicken coop with a chicken run" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Started making a chicken run</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickentext">
+                                            <p class="boldleft">03.21.2023</p>
+                                            <p class="left">Started making a chicken run out of some old fencing panels. Not too sure how we want to build the chicken run but we wanted a chicken run so the chickens can safely go in and out of the coop and give them some extra room to exercise.</p>
+                                            <p class="left">Also purchased some sand and diatomaceous earth and plan on adding some under coop so the chickens can have a dust bath.</p>
+                                            <div class="facts">
+                                                <p class="left">A chicken run is an enclosed outdoor area designed to provide a safe and secure space for chickens to move around, exercise, and access fresh air, sunlight, and natural foraging opportunities. Here are a few reasons why a chicken run is essential for chickens:
+                                                    <ol>
+                                                        <li>Protection from predators: Chickens are vulnerable to a variety of predators, including foxes, raccoons, coyotes, and birds of prey. A chicken run provides a physical barrier between the chickens and potential predators, keeping them safe and secure.</li>
+                                                        <li>Exercise: Chickens need regular exercise to maintain their health and wellbeing. A chicken run allows them to move around freely and engage in natural behaviors like scratching, pecking, and dust bathing.</li>
+                                                        <li>Foraging opportunities: Chickens are natural foragers and enjoy pecking and scratching at the ground in search of insects, seeds, and other food sources. A chicken run can be designed to include natural elements like grass, dirt, and rocks, providing chickens with a variety of foraging opportunities.</li>
+                                                        <li>Disease prevention: A chicken run helps prevent the spread of disease by limiting contact between chickens and potential disease carriers like wild birds, rodents, and other animals.</li>
+                                                    </ol>
+                                                    Overall, a chicken run provides a safe and healthy outdoor environment for chickens to thrive and live happy lives.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <h2 class="chickentitle">One Grit Wonder</h2>
+                                        <div class="chickenimg">
+                                            <a href="https://i.imgur.com/RNGcqyA.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/RNGcqyA.jpg" alt="Manna Pro Chick Grit 5 lb bag" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Manna Pro Chick Grit</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickentext">
+                                            <p class="boldleft">03.22.2023</p>
+                                            <p class="left">We started noticing one of our silkies having a hard time defecating. So with some google research and advice from experienced chicken owners they recommended that we get some grit and add it to the chick feed.</p>
+                                            <p class="left">So we purchased Manna Pro's Chick Grit with ProBiotics. If anyone from Manna Pro would like to sponsor us and our chicks please feel free to reach out to us! &#128516;</p>
+                                            <p class="left"></p>
+                                            <div class="facts">
+                                                <p class="left">Grit is an important dietary supplement for chickens because it helps them digest their food. Chickens don't have teeth, so they rely on grit to grind up and break down their food in their gizzard, a muscular organ in their digestive system.</p>
+                                                <p class="left">Grit is typically made up of small, hard particles like sand, small stones, or crushed oyster shells, and it stays in the gizzard where it helps break down food by grinding and crushing it. Here are a few reasons why grit is important for chickens:
+                                                    <ol>
+                                                        <li>Improved digestion: Without grit, chickens can't break down and digest their food properly, which can lead to poor health and nutrient deficiencies.</li>
+                                                        <li>Better egg production: A healthy digestive system is essential for good egg production. If chickens can't digest their food properly, they may not be able to produce as many eggs, or their eggs may be smaller and lower in quality.</li>
+                                                        <li>Prevents crop impaction: Crop impaction is a condition where food gets stuck in a chicken's crop, a small pouch in their esophagus. Grit helps prevent crop impaction by breaking down and grinding up food before it enters the crop.</li>
+                                                        <li>Promotes natural behavior: Chickens naturally peck and scratch at the ground, and they may ingest small rocks or sand while doing so. Providing them with grit supplements helps satisfy their natural behavior and ensures they have access to the right kind of grit to aid digestion.</li>
+                                                    </ol>
+                                                    Overall, grit is an essential dietary supplement for chickens that helps promote healthy digestion, egg production, and natural behavior. Chickens should have access to grit at all times, either through a separate grit feeder or by scattering it on the ground.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                <div>
                                         <h2 class="chickentitle">Extras</h2>
                                         <div class="chickenimg">
                                             <a href="https://i.imgur.com/WPFSVJg.jpg" target="_blank" rel="noreferrer">
-                                                <img src="https://i.imgur.com/WPFSVJg.jpg" alt="Alt text" width="100%"></img>
+                                                <img src="https://i.imgur.com/WPFSVJg.jpg" alt="Easter Egger chick in hand" width="100%"></img>
                                             </a>
                                             <div class="chickenimgtext">
                                                 <p>'April' our Easter Egger</p>
@@ -629,7 +725,7 @@ export const Chicken = () => {
                                         </div>
                                         <div class="chickenimg">
                                             <a href="https://i.imgur.com/8flZ78B.jpg" target="_blank" rel="noreferrer">
-                                                <img src="https://i.imgur.com/8flZ78B.jpg" alt="Alt text" width="100%"></img>
+                                                <img src="https://i.imgur.com/8flZ78B.jpg" alt="Easter Egger chick in hand at two weeks old" width="100%"></img>
                                             </a>
                                             <div class="chickenimgtext">
                                                 <p>'April' our Easter Egger after two weeks</p>
@@ -637,7 +733,7 @@ export const Chicken = () => {
                                         </div>
                                         <div class="chickenimg">
                                             <a href="https://i.imgur.com/MPNokZK.jpg" target="_blank" rel="noreferrer">
-                                                <img src="https://i.imgur.com/MPNokZK.jpg" alt="Alt text" width="100%"></img>
+                                                <img src="https://i.imgur.com/MPNokZK.jpg" alt="Easter Egger chick in hand with tail feather" width="100%"></img>
                                             </a>
                                             <div class="chickenimgtext">
                                                 <p>April's tail</p>
