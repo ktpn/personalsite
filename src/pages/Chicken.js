@@ -43,7 +43,12 @@ export const Chicken = () => {
                                         <td>{((days - 11)/7).toFixed(2)}</td>
                                     </tr>
                                     <tr>
-                                        <td>2 Crested (Polish and Sultan)</td>
+                                        <td>Polish</td>
+                                        <td>{days - 11}</td>
+                                        <td>{((days - 11)/7).toFixed(2)}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Sultan</td>
                                         <td>{days - 11}</td>
                                         <td>{((days - 11)/7).toFixed(2)}</td>
                                     </tr>
@@ -254,7 +259,7 @@ export const Chicken = () => {
                                         I was able to cut all the wood with just a circular saw.
                                         The legs of the coop is just 1ft off the ground and the dimensions of the coop box is 4ft x 4ft x 4ft without the legs. I went with this dimension to reduce the amount of cutting.
                                         One thing to remember is to always measure twice before cutting, even measure three times to be sure.
-                                        One of my favortite tools to use is the speed square, I do highly recommend it especially for measuring 2x4s. 
+                                        One of my favortite tools to use is the <a href="https://www.lowes.com/pd/Swanson-Tool-Company-SpeedLite-8-in-Square/3009613">Swanson speed square</a>, I do highly recommend it especially for measuring 2x4s. 
                                     </p>
                                     <div class="facts">
                                     <p class="left">A speed square, also known as a rafter square or triangle square, is a measuring tool used by carpenters and other tradespeople to make quick and accurate measurements and cuts. It is typically made of metal or plastic and is shaped like a right-angled triangle with a lip or heel along one edge.
@@ -330,7 +335,7 @@ export const Chicken = () => {
                                     <div class="chickentext">
                                             <p class="left">
                                                 We also purchased a water supplement for our chicks to help support their digestive health and provide them with important nutrients.
-                                                We went with Manna Pro Hydro-Hen 3-in-1 Probiotics + Electrolytes + Acidifiers as it seem to provide everything we are looking for.
+                                                We went with <a href="https://www.mannapro.com/poultry/supplements-care/hydro-hen">Manna Pro Hydro-Hen 3-in-1 Probiotics + Electrolytes + Acidifiers</a> as it seem to provide everything we are looking for.
                                                 <br></br>
                                                 <br></br>
                                                 Manna Pro is well known brand and this product has great reviews, easy to use with measuring cup provided, and not so expensive.
@@ -767,7 +772,7 @@ export const Chicken = () => {
                                         <div class="chickentext">
                                             <p class="boldleft">03.22.2023</p>
                                             <p class="left">We started noticing one of our silkies having a hard time defecating. So with some google research and advice from experienced chicken owners they recommended that we get some grit and add it to the chick feed.</p>
-                                            <p class="left">So we purchased Manna Pro's Chick Grit with ProBiotics. If anyone from Manna Pro would like to sponsor us and our chicks please feel free to reach out to us! &#128516;</p>
+                                            <p class="left">So we purchased <a href="https://www.mannapro.com/poultry/supplements-care/chick-grit-probiotics">Manna Pro's Chick Grit with ProBiotics</a>. If anyone from Manna Pro would like to sponsor us and our chicks please feel free to reach out to us! &#128516;</p>
                                             <p class="left"></p>
                                             <div class="facts">
                                                 <p class="left">Grit is an important dietary supplement for chickens because it helps them digest their food. Chickens don't have teeth, so they rely on grit to grind up and break down their food in their gizzard, a muscular organ in their digestive system.</p>
