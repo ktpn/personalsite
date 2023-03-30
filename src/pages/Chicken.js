@@ -28,7 +28,7 @@ export const Chicken = () => {
                                 <div class="centertable">
                                 <table>
                                     <tr>
-                                        <th>15 Chicks</th>
+                                        <th>19 Chicks</th>
                                         <th>Age (days)</th>
                                         <th>Weeks</th>
                                     </tr>
@@ -81,6 +81,16 @@ export const Chicken = () => {
                                         <td>Buff Brahma</td>
                                         <td>{days - 18}</td>
                                         <td>{((days - 18)/7).toFixed(2)}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Buff Orpingtons</td>
+                                        <td>{days - 45}</td>
+                                        <td>{((days - 45)/7).toFixed(2)}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Lavender Orpingtons</td>
+                                        <td>{days - 45}</td>
+                                        <td>{((days - 45)/7).toFixed(2)}</td>
                                     </tr>
                                 </table>
                                 </div>
@@ -785,6 +795,79 @@ export const Chicken = () => {
                                                     </ol>
                                                     Overall, grit is an essential dietary supplement for chickens that helps promote healthy digestion, egg production, and natural behavior. Chickens should have access to grit at all times, either through a separate grit feeder or by scattering it on the ground.
                                                 </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <h2 class="chickentitle">Mor-Orpingtons</h2>
+                                        <div class="chickenimg">
+                                            <a href="https://i.imgur.com/nZnR6F0.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/nZnR6F0.jpg" alt="2 yellow chicks and 2 light grey chicks" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>4 new chicks, 2 Buff Orpingtons and 2 Lavender Orpingtons</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickentext">
+                                            <p class="boldleft">03.29.2023</p>
+                                            <p class="left">We decided we wanted to get our last set of chickens and they be a special breed of chicks and I really wanted to get the Lavender Orpingtons, they look great with a very distinguish lavender color and also because they are a considered a rare breed.</p>
+                                            <p class="left">So the morning when the chick store opens I called to ask when they would receive their chicks and they said someone just left to pick them up and will be back in about 30-45 minutes.</p>
+                                            <p class="left">I then get ready and drive to the store just in time and when I got there, there was already a line about 12 people deep.</p>
+                                            <p class="left">It seems like there is a large demand for chicken but this might be do the increased prices of eggs and with our nearby major city limit that recently allowing backyard chickens.</p>
+                                            <p class="left">I had to wait about 20 minutes before it was my turn and I went straight to the Lavender Orpingtons and looked around and saw they had Buff Orpingtons too so I had to get some.</p>
+                                            <p class="left">I've heard a lot of great things about the Buff Orpingtons and they looked so cute and fluffy. Also while I was there I got a big bag of chick starter feed from a local manufacturer, <a href="https://bigvfeeds.com/">Big V Feeds</a>, as our chick feed was getting low.</p>
+                                            <div class="facts">
+                                                <p class="left">Lavender Orpingtons are a popular breed of chicken known for their calm temperament, large size, and attractive appearance. They are friendly birds that are generally easy to handle, making them a good choice for backyard chicken enthusiasts, particularly those with families or children.</p>
+                                                <p class="left">In terms of egg production, Lavender Orpingtons are considered moderate to good layers, producing between 150-200 eggs per year. However, they are not as productive as some other breeds, such as Leghorns or Rhode Island Reds.</p>
+                                                <p class="left">Overall, if you're looking for a chicken breed that is friendly, attractive, and produces a good number of eggs, then Lavender Orpingtons are definitely worth considering. However, if egg production is your top priority, you may want to consider a different breed.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <a href="https://i.imgur.com/SntFhM9.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/SntFhM9.jpg" alt="Lavender Orpington and Black Copper Maran chicks for sale" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Lavender Orpingtons are expensive but almost all gone!</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <a href="https://i.imgur.com/SdaAjTn.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/SdaAjTn.jpg" alt="Buff Orpingtons chicks for sale" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Buff Orpingtons are so cute and fluffy</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <a href="https://i.imgur.com/eN9qHN8.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/eN9qHN8.jpg" alt="Big V Feed's Starter Grower Feed 50lbs" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Big V Feed's Starter Grower Feed. Heard great things from them.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <a href="https://i.imgur.com/DHW6u9s.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/DHW6u9s.jpg" alt="Selection list of chicks" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Got the receipt</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <a href="https://i.imgur.com/lq1Q8bw.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/lq1Q8bw.jpg" alt="2 chicks eating and another chick inside the feeder" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>In the playpen eating and one of the Lavender Orpingtons somehow got inside the feeder &#128514;</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <a href="https://i.imgur.com/liltZCH.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/liltZCH.jpg" alt="Chicks eating and drinking water" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>She was able to get out and went straight to the water.</p>
                                             </div>
                                         </div>
                                     </div>
