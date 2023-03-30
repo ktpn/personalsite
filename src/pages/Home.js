@@ -49,7 +49,7 @@ export const Home = () => {
             <span></span>
         <div classname="App">
             <div className="homecontent">
-                <h1>HOME PAGE</h1>
+                <h1>WELCOME TO MY REACT APP</h1>
                 <p>This application will mainly consists of my React projects.</p>
                 <br></br>
                 <p>If there are any questions or tips, please let me know.</p>
