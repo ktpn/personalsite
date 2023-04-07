@@ -28,7 +28,7 @@ export const Chicken = () => {
                                 <div class="centertable">
                                 <table>
                                     <tr>
-                                        <th>19 Chicks</th>
+                                        <th>18 Chicks</th>
                                         <th>Age (days)</th>
                                         <th>Weeks</th>
                                     </tr>
@@ -83,7 +83,7 @@ export const Chicken = () => {
                                         <td>{((days - 18)/7).toFixed(2)}</td>
                                     </tr>
                                     <tr>
-                                        <td>Buff Orpingtons</td>
+                                        <td>Buff Orpington</td>
                                         <td>{days - 45}</td>
                                         <td>{((days - 45)/7).toFixed(2)}</td>
                                     </tr>
@@ -868,6 +868,61 @@ export const Chicken = () => {
                                             </a>
                                             <div class="chickenimgtext">
                                                 <p>She was able to get out and went straight to the water.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <h2 class="chickentitle">Tuffy</h2>
+                                        <div class="chickenimg">
+                                            <a href="https://i.imgur.com/1dg26MK.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/1dg26MK.jpg" alt="Four baby chicks outside in a fenced in area" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Couple of chicks enjoying the outdoors. Tuffy is on the far left with the black spot on her head.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickentext">
+                                            <p class="boldleft">04.01.2023</p>
+                                            <p class="left">We had another warm one so we decided to let all of the chicks outside, it got up to 85F. Also we thought it would be a great time to let the new chicks meet everyone.</p>
+                                            <p class="left">They seemed a bit overwhelmed but was curious of everyone and everything around them. They did get picked on a bit by Peach, the Polish chicken, she seemed to try to establish her pecking order.</p>
+                                            <p class="left">After it got cooler we rounded up the new chicks and brought them back inside. Once we got them inside there was one particular chick not moving too much so I check her and noticed some white milky poop on her butt. So I cleaned her up and put her back in the pen.</p>
+                                            <p class="left">Back in the pen she did move a bit and just sat down so I did not think too much of it. A couple hours later we check on her and has the same type of poop on her, so we clean her up and gave her a warm bath. But even after the bath she was still the same, not really moving too much as the other chicks.</p>
+                                            <p class="left">So then we isolated her just incase she caught something that the other chicks could get. About another hour later we find the same type of poop on her and go to clean it and then she stopped breathing.</p>
+                                            <p class="left">We are not too sure what it was that got her, might have been stress, temperture changes or something she ate outside. But it just happened so fast and lucky the other chicks and everyone else were ok. We think maybe the new chicks have not been on the medicated feed long enough for their bodies to build up their immunity to protect them from what it is suppose to. So our flock now is at 18.</p>
+                                            <div class="facts">
+                                                <p class="left">The duration of medicated feed for baby chicks can vary depending on several factors such as the type of medication and the health status of the chicks. Medicated feed is usually given to baby chicks to prevent the incidence of coccidiosis, which is a common and potentially fatal disease in young poultry.</p>
+                                                <p class="left">Most medicated feeds contain a low dose of medication such as amprolium or sulfaquinoxaline that helps to prevent coccidiosis. The medication is not harmful to the chicks, but it is important to follow the manufacturer's instructions and not exceed the recommended duration of use.</p>
+                                                <p class="left">In general, medicated feed is usually given to baby chicks for the first four to six weeks of their lives. After this period, it is generally safe to switch to a non-medicated feed. However, it's important to consult with your veterinarian or poultry expert to determine the appropriate duration of medicated feed for your particular situation.</p>
+                                                <p class="left">It's also important to note that medicated feed should not be used as a substitute for good hygiene and sanitation practices. Proper cleaning and disinfection of the brooder, feeders, and waterers are also important in preventing the incidence of disease in young chicks.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                        <div class="chickenimg">
+                                            <a href="https://i.imgur.com/bVs9C9C.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/bVs9C9C.jpg" alt="Two chicks on someones chest" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Chicks napping on mom.</p>
+                                            </div>
+                                        </div>
+                                        <div>
+                                        <h2 class="chickentitle">Chicken run with an entry</h2>
+                                        <div class="chickenimg">
+                                            <a href="https://i.imgur.com/abtfmTd.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/abtfmTd.jpg" alt="Chicken coop and chicken run with a door" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Our chicken run add-on with a door.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickentext">
+                                            <p class="boldleft">04.02.2023</p>
+                                            <p class="left">With the extra fence pieces we extended the chicken run and added a door so it would be easy to access the run and the chickens if we need to, also would give them a way out to range when we can let them. We also painted some of the trim pieces around the coop and added a solar light by the chicken run.</p>
+                                            <div class="facts">
+                                                <p class="left">The length of time a chicken should range depends on several factors such as the size of the outdoor area, the weather, and the individual needs and behavior of the chickens. In general, chickens should have access to outdoor areas for at least a few hours each day, weather permitting.</p>
+                                                <p class="left">If you have a large outdoor area, you may be able to allow your chickens to range freely throughout the day. However, if you have a smaller area or live in an urban or suburban environment, you may need to provide more structured outdoor time to ensure their safety and well-being.</p>
+                                                <p class="left">It's important to note that chickens are active during the day and rest at night, so it's best to provide outdoor time during the daytime hours. Additionally, chickens should not be left outside in extreme weather conditions such as high heat or cold temperatures. In hot weather, make sure to provide plenty of shade and water, and in cold weather, provide shelter from the wind and access to warm areas.</p>
+                                                <p class="left">Ultimately, the goal is to provide a safe and comfortable environment for your chickens both indoors and outdoors. Observing your birds' behavior and making adjustments as needed can help ensure their happiness and well-being.</p>
                                             </div>
                                         </div>
                                     </div>
