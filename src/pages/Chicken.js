@@ -31,66 +31,79 @@ export const Chicken = () => {
                                         <th>18 Chicks</th>
                                         <th>Age (days)</th>
                                         <th>Weeks</th>
+                                        <th>Months</th>
                                     </tr>
                                     <tr>
                                         <td>First 3 Random</td>
                                         <td>{days}</td>
                                         <td>{((days)/7).toFixed(2)}</td>
+                                        <td>{((days)/30).toFixed(2)}</td>
                                     </tr>
                                     <tr>
                                         <td>4 Silkes</td>
                                         <td>{days - 11}</td>
                                         <td>{((days - 11)/7).toFixed(2)}</td>
+                                        <td>{((days - 11)/30).toFixed(2)}</td>
                                     </tr>
                                     <tr>
                                         <td>Polish</td>
                                         <td>{days - 11}</td>
                                         <td>{((days - 11)/7).toFixed(2)}</td>
+                                        <td>{((days - 11)/30).toFixed(2)}</td>
                                     </tr>
                                     <tr>
                                         <td>Sultan</td>
                                         <td>{days - 11}</td>
                                         <td>{((days - 11)/7).toFixed(2)}</td>
+                                        <td>{((days - 11)/30).toFixed(2)}</td>
                                     </tr>
                                     <tr>
                                         <td>Easter Egger</td>
                                         <td>{days - 11}</td>
                                         <td>{((days - 11)/7).toFixed(2)}</td>
+                                        <td>{((days - 11)/30).toFixed(2)}</td>
                                     </tr>
                                     <tr>
                                         <td>Rhode Island Red</td>
                                         <td>{days - 18}</td>
                                         <td>{((days - 18)/7).toFixed(2)}</td>
+                                        <td>{((days - 18)/30).toFixed(2)}</td>
                                     </tr>
                                     <tr>
                                         <td>Cuckoo Maran</td>
                                         <td>{days - 18}</td>
                                         <td>{((days - 18)/7).toFixed(2)}</td>
+                                        <td>{((days - 18)/30).toFixed(2)}</td>
                                     </tr>
                                     <tr>
                                         <td>Silver-Laced Wyandotte</td>
                                         <td>{days - 18}</td>
                                         <td>{((days - 18)/7).toFixed(2)}</td>
+                                        <td>{((days - 18)/30).toFixed(2)}</td>
                                     </tr>
                                     <tr>
                                         <td>Black Jersey Giant</td>
                                         <td>{days - 18}</td>
                                         <td>{((days - 18)/7).toFixed(2)}</td>
+                                        <td>{((days - 18)/30).toFixed(2)}</td>
                                     </tr>
                                     <tr>
                                         <td>Buff Brahma</td>
                                         <td>{days - 18}</td>
                                         <td>{((days - 18)/7).toFixed(2)}</td>
+                                        <td>{((days - 18)/30).toFixed(2)}</td>
                                     </tr>
                                     <tr>
                                         <td>Buff Orpington</td>
                                         <td>{days - 45}</td>
                                         <td>{((days - 45)/7).toFixed(2)}</td>
+                                        <td>{((days - 45)/30).toFixed(2)}</td>
                                     </tr>
                                     <tr>
                                         <td>Lavender Orpingtons</td>
                                         <td>{days - 45}</td>
                                         <td>{((days - 45)/7).toFixed(2)}</td>
+                                        <td>{((days - 45)/30).toFixed(2)}</td>
                                     </tr>
                                 </table>
                                 </div>
@@ -926,6 +939,115 @@ export const Chicken = () => {
                                             </div>
                                         </div>
                                     </div>
+                                    <div>
+                                        <h2 class="chickentitle">Expanded the chicken run</h2>
+                                        <div class="chickenimg">
+                                            <a href="https://imgur.com/hikEbXh.jpeg" target="_blank" rel="noreferrer">
+                                                <img src="https://imgur.com/hikEbXh.jpeg" alt="Two chickens on a picnic table with a chicken coop in the background" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Sesame and Cuckoo looking for dinner.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickentext">
+                                            <p class="boldleft">04.15.2023</p>
+                                            <p class="left">We decided to expand the chicken run a bit so we can add more stuff in it and so the chickens would have more space as they are getting bigger. Either chickens grow fast or we been feeding them too much?
+                                                            This time we bought the lumber instead of using left overs to make it a nicer chicken run. It took about two days to complete and we painted black. The chickens seem to enjoy it even thought they free range all day.
+                                            </p>
+                                            <div class="facts">
+                                                <p class="left">Chickens go through various stages of development from hatching to maturity. Here's a general overview of the development stages of chickens:</p>
+                                                <p class="left">
+                                                    <ol>
+                                                        <li>Embryonic Development (Inside the Egg): Chickens start developing inside the egg before they hatch. The incubation period for chicken eggs is typically around 21 days. During this time, the embryo undergoes rapid development, forming organs, feathers, and the beak.</li>
+                                                        <li>Hatching: At the end of the incubation period, the chicken embryo will hatch from the egg. Newly hatched chicks are quite small, fluffy, and fragile.</li>
+                                                        <li>Brooding Stage (0-6 Weeks): During this stage, chicks are highly dependent on heat for their survival. They need to be kept in a warm environment (around 95-100°F or 35-37.5°C) and provided with appropriate chick feed and water. They will grow quickly during this period, developing feathers and gradually becoming more independent.</li>
+                                                        <li>Grower Stage (6-20 Weeks): During this phase, the chicks are referred to as "growers." They are past the fragile stage and will continue to develop feathers, grow in size, and transition to eating a diet appropriate for their growth. This period is important for their skeletal and muscle development.</li>
+                                                        <li>Pullet Stage (20-24 Weeks): Female chickens are called pullets at this stage. They are nearing sexual maturity and will start laying eggs soon. Their growth rate slows down compared to the earlier stages.</li>
+                                                        <li>Cockerel Stage (20-24 Weeks): Male chickens are called cockerels. They will also show signs of sexual maturity, such as changes in behavior and physical appearance. However, they do not lay eggs.</li>
+                                                        <li>Maturity and Egg Production (24+ Weeks): At around 24 to 28 weeks of age, most chicken breeds reach sexual maturity. This is when hens start laying eggs. The frequency of egg laying and the size of the eggs will depend on the breed and individual factors.</li>
+                                                        <li>Full Maturity (Varies by Breed): Chickens continue to develop physically and behaviorally as they age. They will reach their full size and may live for several years, with egg production decreasing as they get older.</li>
+                                                    </ol>
+                                                </p>
+                                                <p class="left">Keep in mind that the exact timing of these stages can vary depending on factors such as breed, genetics, diet, environment, and care. Additionally, some breeds may mature faster or slower than others. It's important to provide appropriate care, nutrition, and housing throughout each stage of a chicken's development to ensure their health and well-being.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <h2 class="chickentitle">Snap, Crackle, Pop</h2>
+                                        <div class="chickenimg">
+                                            <a href="https://imgur.com/XVbqAZy.jpeg" target="_blank" rel="noreferrer">
+                                                <img src="https://imgur.com/XVbqAZy.jpeg" alt="Three chickens on a wood pallet leaned against the wall of a chicken run" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Snap, Crackle, and Pop are growing so fast and they might be ready to sleep outside with the rest of the flock.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickentext">
+                                            <p class="boldleft">04.28.2023</p>
+                                            <p class="left">Snap, Crackle, and Pop are growing so fast and we introduced to the rest of the flock whenever we have time to supervise. We think this helps as it helps to slowly introduce them and they will get used to each other. The older chickens do still chase them and occasionally peck at them to establish their pecking order. 
+                                                            Snap, Crackle, and Pop do avert to using the wood pallet to get away from whoever is chasing them. 
+                                                            We also think they are ready to sleep in the coop as they seem to be able to hold their own and the flock getting used to seeing them everyday. The first night the slept together in the corner of the coop.
+                                                            </p>
+                                            <div class="facts">
+                                                <p class="left">Introducing new chicks to an existing flock of chickens requires careful planning to minimize stress, aggression, and potential harm to both the chicks and the adult birds. Here's a step-by-step guide on how to introduce chicks to your existing flock:</p>
+                                                <p class="left">
+                                                    <ol>
+                                                        <li>Quarantine and Health Check: Before introducing new chicks to your existing flock, it's important to quarantine the new chicks for at least two weeks. This helps ensure that the new chicks are healthy and won't introduce any diseases to your established flock.</li>
+                                                        <li>Choose the Right Time: Introduce new chicks when they are big enough to defend themselves a bit, but still small enough that the size difference is less intimidating to the adult birds. This is usually around 6 to 8 weeks of age.</li>
+                                                        <li>Separate but Visible: Place the brooder or enclosure with the new chicks within the sight of the existing flock but in a way that prevents physical contact. This allows the birds to become familiar with each other without direct interaction.</li>
+                                                        <li>Gradual Introduction: After a few days of having the new chicks in sight of the older chickens, you can start with short and supervised introductions. Allow the older chickens to approach the chicks while you closely observe their behavior. If any aggression or pecking occurs, be prepared to intervene.</li>
+                                                        <li>Supervise Interaction: Over the course of several days, gradually increase the length of time the chicks and adult chickens spend together. Keep a close eye on their interactions, especially during feeding and drinking times.</li>
+                                                        <li>Provide Multiple Feeding and Water Stations: Ensure there are enough feeding and water stations so that both the new chicks and the existing flock have access without intense competition. This reduces stress and prevents bullying.</li>
+                                                        <li>Provide Hiding Spaces: Introduce hiding spots or obstacles in the enclosure that chicks can use to escape if they feel threatened by the older birds.</li>
+                                                        <li>Monitor Behavior: Pay attention to the body language and behavior of both the chicks and the adult birds. Some pecking and establishing a pecking order is normal, but if you see excessive aggression, injury, or bullying, you might need to separate the birds again.</li>
+                                                        <li>Space and Resources: Make sure the coop and run are spacious enough to accommodate the increased numbers without causing overcrowding. Adequate space reduces stress and aggression.</li>
+                                                        <li>Patience: The process of integrating new chicks into an existing flock can take time. Be patient and allow the birds to gradually adjust to each other's presence.</li>
+                                                        <li>Nighttime Integration: If possible, consider placing the new chicks with the older chickens at night when they are less active. This can help them wake up together and reduce daytime confrontations.</li>
+                                                        <li>Provide Distractions: Offer treats, food scraps, or other distractions to redirect the attention of both the chicks and the older birds, promoting positive interactions.</li>
+                                                    </ol>
+                                                </p>
+                                                <p class="left">Remember that each flock is unique, and the integration process might vary depending on the personalities and dynamics of your chickens. Keep a close watch on their interactions and be prepared to separate individuals if needed to ensure the safety and well-being of all birds involved.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <a href="https://imgur.com/RP0HPTr.jpeg" target="_blank" rel="noreferrer">
+                                                <img src="https://imgur.com/RP0HPTr.jpeg" alt="Three chicks in the chicken coop with the rest of the flock" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>First night out in the coop for Snap, Crackle, and Pop.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <h2 class="chickentitle">Wet chicken</h2>
+                                        <div class="chickenimg">
+                                            <a href="https://i.imgur.com/DVYQNhJ.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/DVYQNhJ.jpg" alt="A wet black silkie chicken" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Mulligan enjoying the free shower</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickentext">
+                                            <p class="boldleft">06.27.2023</p>
+                                            <p class="left">Its been raining here several days and the flock seems to start embracing getting wet. They definitely need it since we do not give them baths besides letting them bathe in the dirty.</p>
+                                            <div class="facts">
+                                                <p class="left">If your chicken got wet and you need to dry it, follow these steps to ensure its comfort and safety:
+                                                    <ol>
+                                                        <li>Remove the Chicken from the Wet Environment: If the chicken is still wet, gently pick it up and move it to a dry and warm area. Avoid exposing the chicken to cold drafts or strong wind, as this can worsen its condition.</li>
+                                                        <li>Blot with Towels: Gently blot the chicken's feathers with clean, dry towels. Do not rub vigorously as this could damage the feathers or stress the bird.</li>
+                                                        <li>Use a Hair Dryer (Optional): If the chicken is comfortable with noise and the sensation of warm air, you can use a hair dryer on its lowest setting. Maintain a safe distance and do not use hot air as it can burn the delicate skin or feathers.</li>
+                                                        <li>Provide Warmth: Ensure the chicken is in a warm and comfortable environment. You can use heat lamps or warming pads, making sure they are positioned in a way that the chicken can move away from the heat source if it gets too warm.</li>
+                                                        <li>Monitor the Chicken: Keep a close eye on the chicken to make sure it is responding well to the drying process. If the bird seems stressed, discontinue the use of the hair dryer or heat source.</li>
+                                                        <li>Allow Natural Drying: If the chicken seems stressed by the drying process, it's best to allow it to dry naturally in a warm and dry environment. Make sure it has access to a warm and sheltered area.</li>
+                                                        <li>Observe Behavior: Keep observing the chicken's behavior. If it starts preening and fluffing its feathers, it's a sign that it's feeling better and is taking care of itself.</li>
+                                                        <li>Prevent Chilling: Wet chickens are susceptible to hypothermia, so it's crucial to keep them warm until they are completely dry. If necessary, you might need to keep them indoors until they are fully dried and their feathers regain their insulating properties.</li>
+                                                    </ol>
+                                                </p>
+                                                <p class="left">Remember, chickens are sensitive creatures, and stress can have adverse effects on their health. Always prioritize their well-being and comfort. If the chicken shows signs of distress, injury, or prolonged discomfort, it's a good idea to consult a veterinarian with experience in treating poultry.</p>
+                                            </div>
+                                        </div>
+                                    </div>
                                 <div>
                                         <h2 class="chickentitle">Extras</h2>
                                         <div class="chickenimg">
@@ -952,7 +1074,80 @@ export const Chicken = () => {
                                                 <p>April's tail</p>
                                             </div>
                                         </div>
+                                        <div class="chickenimg">
+                                            <a href="https://i.imgur.com/899ZugO.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/899ZugO.jpg" alt="Group picture of baby chicks" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>03.11.2023 - Part of the flock picture.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <a href="https://imgur.com/qpR47DV.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://imgur.com/qpR47DV.jpg" alt="Chickens in a coop roosting" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>04.16.2023 - Roosting.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <a href="https://imgur.com/K0KJDps.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://imgur.com/K0KJDps.jpg" alt="Chickens in a coop roosting some on the higher roosting bar" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>04.23.2023 - Roosting on the next level.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <a href="https://imgur.com/EHcjvaO.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://imgur.com/EHcjvaO.jpg" alt="Flock of chickens eating outside in the grass" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>05.07.2023 - A Hungry flock.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <a href="https://i.imgur.com/63B1YiK.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/63B1YiK.jpg" alt="Black silkie chicken with white rice over her face" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>08.07.2023 - Mulligan saving some rice for later.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <a href="https://imgur.com/Gpgibja.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://imgur.com/Gpgibja.jpg" alt="Brown chicken with an egg" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Sesame's egg.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <a href="https://imgur.com/DJTmXuw.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://imgur.com/DJTmXuw.jpg" alt="Black chicken with white spots with an egg" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Lacey's egg.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <a href="https://imgur.com/TwpJMWo.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://imgur.com/TwpJMWo.jpg" alt="Grey silkie chicken with an egg" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Mulligan's egg.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <a href="https://imgur.com/qVRD7pB.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://imgur.com/qVRD7pB.jpg" alt="Black silkie chicken with an egg" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>My Little Gal's egg.</p>
+                                            </div>
+                                        </div>
                                 </div>
+
 
 
                                 
