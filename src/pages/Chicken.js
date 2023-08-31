@@ -1019,34 +1019,75 @@ export const Chicken = () => {
                                         </div>
                                     </div>
                                     <div>
-                                        <h2 class="chickentitle">Wet chicken</h2>
+                                        <h2 class="chickentitle">First Egg</h2>
                                         <div class="chickenimg">
-                                            <a href="https://i.imgur.com/DVYQNhJ.jpg" target="_blank" rel="noreferrer">
-                                                <img src="https://i.imgur.com/DVYQNhJ.jpg" alt="A wet black silkie chicken" width="100%"></img>
+                                            <a href="https://imgur.com/UChVzYz.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://imgur.com/UChVzYz.jpg" alt="Light green and blue egg in hand" width="100%"></img>
                                             </a>
                                             <div class="chickenimgtext">
-                                                <p>Mulligan enjoying the free shower</p>
+                                                <p>Pretty $1000.00 dollar egg</p>
                                             </div>
                                         </div>
                                         <div class="chickentext">
                                             <p class="boldleft">06.27.2023</p>
-                                            <p class="left">Its been raining here several days and the flock seems to start embracing getting wet. They definitely need it since we do not give them baths besides letting them bathe in the dirty.</p>
+                                            <p class="left">So excited that we got our first egg and yes this is a $1000.00 egg! We do not know who laid this egg yet but hopefully we will find out soon. And hopefully more chickens will lay eggs. Also chickens laying eggs means they are healthy</p>
                                             <div class="facts">
-                                                <p class="left">If your chicken got wet and you need to dry it, follow these steps to ensure its comfort and safety:
+                                                <p class="left">Chicken eggs are typically coated with a natural protective layer called the "bloom" or "cuticle." The bloom helps seal the pores on the eggshell, reducing the risk of bacteria and moisture from entering the egg, which can prolong its freshness.
+                                                <p class="left">When it comes to how long eggs with the bloom can stay out at room temperature, it's generally recommended to consume them within 7 to 10 days. However, this can vary depending on several factors:
+                                                </p>
                                                     <ol>
-                                                        <li>Remove the Chicken from the Wet Environment: If the chicken is still wet, gently pick it up and move it to a dry and warm area. Avoid exposing the chicken to cold drafts or strong wind, as this can worsen its condition.</li>
-                                                        <li>Blot with Towels: Gently blot the chicken's feathers with clean, dry towels. Do not rub vigorously as this could damage the feathers or stress the bird.</li>
-                                                        <li>Use a Hair Dryer (Optional): If the chicken is comfortable with noise and the sensation of warm air, you can use a hair dryer on its lowest setting. Maintain a safe distance and do not use hot air as it can burn the delicate skin or feathers.</li>
-                                                        <li>Provide Warmth: Ensure the chicken is in a warm and comfortable environment. You can use heat lamps or warming pads, making sure they are positioned in a way that the chicken can move away from the heat source if it gets too warm.</li>
-                                                        <li>Monitor the Chicken: Keep a close eye on the chicken to make sure it is responding well to the drying process. If the bird seems stressed, discontinue the use of the hair dryer or heat source.</li>
-                                                        <li>Allow Natural Drying: If the chicken seems stressed by the drying process, it's best to allow it to dry naturally in a warm and dry environment. Make sure it has access to a warm and sheltered area.</li>
-                                                        <li>Observe Behavior: Keep observing the chicken's behavior. If it starts preening and fluffing its feathers, it's a sign that it's feeling better and is taking care of itself.</li>
-                                                        <li>Prevent Chilling: Wet chickens are susceptible to hypothermia, so it's crucial to keep them warm until they are completely dry. If necessary, you might need to keep them indoors until they are fully dried and their feathers regain their insulating properties.</li>
+                                                        <li>Temperature: Higher room temperatures can accelerate the breakdown of the bloom and increase the risk of bacterial contamination. Eggs should be stored in a cool and consistent temperature environment.</li>
+                                                        <li>Humidity: Humidity levels can affect how quickly the bloom degrades. High humidity might cause the bloom to break down faster.</li>
+                                                        <li>Cleanliness: Eggs with intact blooms are less likely to get contaminated. Handling eggs with clean hands and storing them properly can extend their freshness.</li>
+                                                        <li>Age of the Egg: Fresher eggs tend to have more effective blooms. As eggs age, the bloom deteriorates, making the egg more susceptible to bacteria.</li>
+                                                        <li>Egg Quality: Eggs from healthy chickens and clean environments are more likely to have strong blooms and remain fresh longer.</li>
                                                     </ol>
                                                 </p>
-                                                <p class="left">Remember, chickens are sensitive creatures, and stress can have adverse effects on their health. Always prioritize their well-being and comfort. If the chicken shows signs of distress, injury, or prolonged discomfort, it's a good idea to consult a veterinarian with experience in treating poultry.</p>
+                                                <p class="left">It's important to note that recommendations can vary between regions and countries due to differing regulations and local conditions. In some places, it might be common practice to store eggs at room temperature, while in others, refrigeration is advised from the moment they are collected. When in doubt, it's safer to store eggs in the refrigerator to minimize the risk of bacterial growth.
+                                                <p class="left">To ensure the safety and quality of eggs, it's a good practice to follow guidelines provided by local food safety authorities or reputable sources. Always visually inspect eggs before using them; if an egg has an unusual odor, appearance, or texture, it's best to discard it.
+                                                </p>
+                                                </p>
                                             </div>
                                         </div>
+                                        <div>
+                                        <h2 class="chickentitle">Run Chicken door</h2>
+                                        <div class="chickenimg">
+                                            <a href="https://imgur.com/F2ZLRy8.jpeg" target="_blank" rel="noreferrer">
+                                                <img src="https://imgur.com/F2ZLRy8.jpeg" alt="Red chicken coop door with a yellow chick on top" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Run-Chicken Automatic coop door. Zeus making sure its good.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickentext">
+                                            <p class="boldleft">08.25.2023</p>
+                                            <p class="left">So we got an automatic chicken coop door just for the convenience and to make it easier  for us when letting the chickens out. We did try out another solar powered automatic door but it only was good for about a week before it started causing us problems. So then we went with the Run-Chicken Automatic door cause it had a lot of good reviews and they were having a 10% off sale so we got one.</p>
+                                            <div class="facts">
+                                                <p class="left">An automatic chicken coop door offers several benefits for poultry keepers. Here are some of the advantages of using an automatic chicken coop door:
+                                                    <ol>
+                                                        <li>Convenience: One of the primary benefits of an automatic chicken coop door is the convenience it provides. You don't have to manually open and close the coop door every day, which can be especially useful during early mornings or when you're away from home.</li>
+                                                        <li>Consistent Timing: Automatic doors can be set to open and close at specific times. This consistency in opening and closing helps regulate your chickens' schedule, which can be important for their overall well-being and egg-laying patterns.</li>
+                                                        <li>Predator Protection: An automatic door can help protect your chickens from predators. It can be programmed to close at night, keeping your chickens safe from nocturnal predators such as foxes, raccoons, and owls.</li>
+                                                        <li>Enhanced Security: Automatic doors can be designed with security features, such as locks or sensors that prevent them from being forced open by predators or intruders.</li>
+                                                        <li>Extended Sleeping Time: Chickens are more vulnerable when they're sleeping, especially during early morning hours before the coop is opened. An automatic door can delay the opening time slightly to give your chickens more time to wake up and become active before they venture outside.</li>
+                                                        <li>Weather Protection: An automatic door can provide protection against adverse weather conditions, such as rain, snow, and extreme temperatures. It can be programmed to close during inclement weather to keep your chickens warm and dry.</li>
+                                                        <li>Energy Efficiency: If you use artificial lighting in your coop, an automatic door can help regulate the amount of light your chickens receive. This can be important for maintaining their natural day-night cycle and can help save energy by not having lights on all the time.</li>
+                                                        <li>Peace of Mind: With an automatic door, you can have peace of mind knowing that your chickens are secure even if you're not around to manually open and close the coop door.</li>
+                                                        <li>Reduced Risk of Disease: An automatic door can minimize the potential for disease transmission by reducing the need for human contact with the coop and chickens. This can be particularly useful during disease outbreaks.</li>
+                                                        <li>Remote Access: Some advanced automatic doors can be controlled remotely through smartphones or other devices. This feature can be handy if you need to adjust the door's schedule while you're away.</li>
+                                                        <li>Time Savings: By automating the door-opening process, you free up time that can be spent on other aspects of chicken care and management.</li>
+                                                    </ol>
+                                                    While automatic chicken coop doors offer numerous benefits, it's essential to choose a reliable and high-quality model that suits your coop size and the needs of your flock. Regular maintenance and occasional manual checks are also important to ensure the door is functioning correctly and that your chickens remain safe and comfortable.
+
+
+
+
+
+
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
                                     </div>
                                 <div>
                                         <h2 class="chickentitle">Extras</h2>
@@ -1115,6 +1156,14 @@ export const Chicken = () => {
                                             </div>
                                         </div>
                                         <div class="chickenimg">
+                                            <a href="https://i.imgur.com/DVYQNhJ.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://i.imgur.com/DVYQNhJ.jpg" alt="A wet black silkie chicken" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Mulligan enjoying the free shower</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
                                             <a href="https://imgur.com/Gpgibja.jpg" target="_blank" rel="noreferrer">
                                                 <img src="https://imgur.com/Gpgibja.jpg" alt="Brown chicken with an egg" width="100%"></img>
                                             </a>
@@ -1144,6 +1193,22 @@ export const Chicken = () => {
                                             </a>
                                             <div class="chickenimgtext">
                                                 <p>My Little Gal's egg.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <a href="https://imgur.com/gdlqTjN.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://imgur.com/gdlqTjN.jpg" alt="White silkie chicken with an egg" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>Cream cheese's egg.</p>
+                                            </div>
+                                        </div>
+                                        <div class="chickenimg">
+                                            <a href="https://imgur.com/NJOO4c1.jpg" target="_blank" rel="noreferrer">
+                                                <img src="https://imgur.com/NJOO4c1.jpg" alt="Red rooster looking at camera" width="100%"></img>
+                                            </a>
+                                            <div class="chickenimgtext">
+                                                <p>One of our roosters: Kung.</p>
                                             </div>
                                         </div>
                                 </div>

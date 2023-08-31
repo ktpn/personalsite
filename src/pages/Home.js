@@ -56,7 +56,7 @@ export const Home = () => {
                 <p><a href="mailto:kydesignandcode@gmail.com?subject=Hello">Contact me</a></p>
                 <br></br>
                 <p>For egg-citing content, check out my <Link to ="/chicken">Chicken Page</Link> &#128020;.</p>
-                <p>(Updated 08-24-2023)</p>
+                <p>(Updated 08-30-2023)</p>
                 <br></br>
                 <p>Return to my <a href="https://ktpn.github.io/kydesignandcode/">Portfolio page</a></p>
             </div>
